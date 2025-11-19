@@ -169,9 +169,9 @@
          "dimension": "0x0x0 cm",
          "peso": "0kg",
          "img": {
-            "img1": "img",
-            "img2": "img2",
-            "img3": "img3"
+            "img1": "https://www.dropbox.com/scl/fi/1uue2opipk7q6ei04n7of/1.png?rlkey=rsb1dg1p2xmwyh114ngpita7p&st=a7zzjcb1&dl=0",
+            "img2": "https://www.dropbox.com/scl/fi/1uue2opipk7q6ei04n7of/1.png?rlkey=rsb1dg1p2xmwyh114ngpita7p&st=a7zzjcb1&dl=0",
+            "img3": "https://www.dropbox.com/scl/fi/1uue2opipk7q6ei04n7of/1.png?rlkey=rsb1dg1p2xmwyh114ngpita7p&st=a7zzjcb1&dl=0"
          },
          "cantidad_snacks": "10",
          "servicio": {
@@ -185,9 +185,9 @@
          "dimension": "0x0x0 cm",
          "peso": "0kg",
          "img": {
-            "img1": "img",
-            "img2": "img2",
-            "img3": "img3"
+            "img1": "https://www.dropbox.com/scl/fi/ngd4odf4h25laj5yaiqp1/2.png?rlkey=b511zhorhpuz73z4uvf2mx5y4&st=hz8etjtf&dl=0",
+            "img2": "https://www.dropbox.com/scl/fi/ngd4odf4h25laj5yaiqp1/2.png?rlkey=b511zhorhpuz73z4uvf2mx5y4&st=hz8etjtf&dl=0",
+            "img3": "https://www.dropbox.com/scl/fi/ngd4odf4h25laj5yaiqp1/2.png?rlkey=b511zhorhpuz73z4uvf2mx5y4&st=hz8etjtf&dl=0"
          },
          "cantidad_snacks": "10",
          "servicio": {
