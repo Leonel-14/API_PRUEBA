@@ -70,9 +70,9 @@
          "dimension": "68x183x58 cm",
          "peso": "125kg",
          "img": {
-            "img1": "img",
-            "img2": "img2",
-            "img3": "img3"
+            "img1": "https://www.dropbox.com/scl/fi/d5a16fzicv7xqunpra1e5/Cristallo-400.png?rlkey=9z2r63yet7p5qmv7szpo00mhe&st=7x0b8i0k&raw=1",
+            "img2": "https://www.dropbox.com/scl/fi/d5a16fzicv7xqunpra1e5/Cristallo-400.png?rlkey=9z2r63yet7p5qmv7szpo00mhe&st=7x0b8i0k&raw=1",
+            "img3": "https://www.dropbox.com/scl/fi/d5a16fzicv7xqunpra1e5/Cristallo-400.png?rlkey=9z2r63yet7p5qmv7szpo00mhe&st=7x0b8i0k&raw=1"
          },
          "bebida":{
             "Cafe Corto":"https://www.dropbox.com/scl/fi/7d4nu6neps5fqvbz5em7z/cafe_corto.png?rlkey=zn5caxy75xlcalouuyqowbjcp&st=ohz0rrve&raw=1",
