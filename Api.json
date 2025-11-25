@@ -128,9 +128,9 @@
          "dimension": "75x183x86 cm",
          "peso": "192kg",
          "img": {
-            "img1": "img",
-            "img2": "img2",
-            "img3": "img3"
+            "img1": "https://www.dropbox.com/scl/fi/spi6fq0ev7spk2o65rpnx/atlante2.png?rlkey=fe2jl5y8uwg8cbe1ly5popov0&st=zy88fzpn&raw=1",
+            "img2": "https://www.dropbox.com/scl/fi/spi6fq0ev7spk2o65rpnx/atlante2.png?rlkey=fe2jl5y8uwg8cbe1ly5popov0&st=2io1sbjg&raw=1",
+            "img3": "https://www.dropbox.com/scl/fi/spi6fq0ev7spk2o65rpnx/atlante2.png?rlkey=fe2jl5y8uwg8cbe1ly5popov0&st=2io1sbjg&raw=1"
          },
          "bebida":{
             "Cafe Corto":"https://www.dropbox.com/scl/fi/7d4nu6neps5fqvbz5em7z/cafe_corto.png?rlkey=zn5caxy75xlcalouuyqowbjcp&st=ohz0rrve&raw=1",
@@ -160,9 +160,9 @@
          "dimension": "41x157x53 cm",
          "peso": "69kg",
          "img": {
-            "img1": "img",
-            "img2": "img2",
-            "img3": "img3"
+            "img1": "https://www.dropbox.com/scl/fi/qy72qx4e1w9gpfnp0mlil/rubino-200.png?rlkey=h26mal5gbr2bbsiblqbhgtjvk&st=w1d9uhma&raw=1",
+            "img2": "https://www.dropbox.com/scl/fi/qy72qx4e1w9gpfnp0mlil/rubino-200.png?rlkey=h26mal5gbr2bbsiblqbhgtjvk&st=w1d9uhma&raw=1",
+            "img3": "https://www.dropbox.com/scl/fi/qy72qx4e1w9gpfnp0mlil/rubino-200.png?rlkey=h26mal5gbr2bbsiblqbhgtjvk&st=w1d9uhma&raw=1"
          },
          "bebida":{
             "Cafe Corto":"https://www.dropbox.com/scl/fi/7d4nu6neps5fqvbz5em7z/cafe_corto.png?rlkey=zn5caxy75xlcalouuyqowbjcp&st=ohz0rrve&raw=1",
@@ -222,9 +222,9 @@
          "dimension": "41x157x53 cm",
          "peso": "69kg",
          "img": {
-            "img1": "img",
-            "img2": "img2",
-            "img3": "img3"
+            "img1": "https://www.dropbox.com/scl/fi/l5m35mx5iwo1hdd6n5dyx/kikko_max.png?rlkey=sj3ska0chgaaanncc4aw0saz9&st=awllsdxx&raw=1",
+            "img2": "https://www.dropbox.com/scl/fi/l5m35mx5iwo1hdd6n5dyx/kikko_max.png?rlkey=sj3ska0chgaaanncc4aw0saz9&st=awllsdxx&raw=1",
+            "img3": "https://www.dropbox.com/scl/fi/l5m35mx5iwo1hdd6n5dyx/kikko_max.png?rlkey=sj3ska0chgaaanncc4aw0saz9&st=awllsdxx&raw=1"
          },
          "bebida":{
             "Cafe Corto":"https://www.dropbox.com/scl/fi/7d4nu6neps5fqvbz5em7z/cafe_corto.png?rlkey=zn5caxy75xlcalouuyqowbjcp&st=ohz0rrve&raw=1",
