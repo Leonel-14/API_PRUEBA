@@ -97,8 +97,8 @@
       "maqc4": {
          "marca": "Saeco",
          "modelo": "10P",
-         "dimension": "0x0x0 cm",
-         "peso": "0kg",
+         "dimension": "62x183x64 cm",
+         "peso": "114kg",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/yg1rpk6y2va2j3qkhwlu7/10p-Photoroom.png?rlkey=q146dax40szhjifwvuv4o6jbl&st=6ckzherg&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/yg1rpk6y2va2j3qkhwlu7/10p-Photoroom.png?rlkey=q146dax40szhjifwvuv4o6jbl&st=6ckzherg&raw=1",
@@ -126,7 +126,7 @@
          "marca": "Saeco",
          "modelo": "Atlante",
          "dimension": "75x183x86 cm",
-         "peso": "192kg",
+         "peso": "184kg",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/spi6fq0ev7spk2o65rpnx/atlante2.png?rlkey=fe2jl5y8uwg8cbe1ly5popov0&st=zy88fzpn&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/spi6fq0ev7spk2o65rpnx/atlante2.png?rlkey=fe2jl5y8uwg8cbe1ly5popov0&st=2io1sbjg&raw=1",
@@ -157,8 +157,8 @@
       "maqc6": {
          "marca": "Saeco",
          "modelo": "Rubino",
-         "dimension": "41x157x53 cm",
-         "peso": "69kg",
+         "dimension": "41x76x53 cm",
+         "peso": "40kg",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/qy72qx4e1w9gpfnp0mlil/rubino-200.png?rlkey=h26mal5gbr2bbsiblqbhgtjvk&st=w1d9uhma&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/qy72qx4e1w9gpfnp0mlil/rubino-200.png?rlkey=h26mal5gbr2bbsiblqbhgtjvk&st=w1d9uhma&raw=1",
@@ -189,8 +189,8 @@
       "maqc7": {
          "marca": "Necta",
          "modelo": "Kikko",
-         "dimension": "41x157x53 cm",
-         "peso": "69kg",
+         "dimension": "54x170x69 cm",
+         "peso": "114kg",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/hr8oplhbhnh2qhnbnhbby/kikko.png?rlkey=mn5moum2x37naoleo2gidlzms&st=686zjjuk&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/hr8oplhbhnh2qhnbnhbby/kikko.png?rlkey=mn5moum2x37naoleo2gidlzms&st=686zjjuk&raw=1",
@@ -219,8 +219,8 @@
       "maqc8": {
          "marca": "Necta",
          "modelo": "Kikko Max",
-         "dimension": "41x157x53 cm",
-         "peso": "69kg",
+         "dimension": "54x183x65 cm",
+         "peso": "126kg",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/l5m35mx5iwo1hdd6n5dyx/kikko_max.png?rlkey=sj3ska0chgaaanncc4aw0saz9&st=awllsdxx&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/l5m35mx5iwo1hdd6n5dyx/kikko_max.png?rlkey=sj3ska0chgaaanncc4aw0saz9&st=awllsdxx&raw=1",
@@ -249,8 +249,8 @@
       "maqc9": {
          "marca": "Necta",
          "modelo": "Concerto",
-         "dimension": "41x157x53 cm",
-         "peso": "69kg",
+         "dimension": "60x170x74 cm",
+         "peso": "125kg",
          "img": {
             "img1": "img",
             "img2": "img2",
@@ -278,8 +278,8 @@
       "maqc10": {
          "marca": "Saeco",
          "modelo": "Diamante",
-         "dimension": "41x157x53 cm",
-         "peso": "69kg",
+         "dimension": "72x191x84 cm",
+         "peso": "243kg",
          "img": {
             "img1": "img",
             "img2": "img2",
