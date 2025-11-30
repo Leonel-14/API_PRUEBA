@@ -312,6 +312,22 @@
    "maquinas_snacks": {
       "maqs1": {
          "marca": "Saeco",
+         "modelo": "TCN CMX",
+         "dimension": "0x0x0 cm",
+         "peso": "0kg",
+         "img": {
+            "img1": "https://www.dropbox.com/scl/fi/ztyossb1bup3na7m398ra/frente_tcn.png?rlkey=86bbvhkk0bk8oxa3e79yxwoxl&st=qqnib71k&raw=1",
+            "img2": "https://www.dropbox.com/scl/fi/ztyossb1bup3na7m398ra/frente_tcn.png?rlkey=86bbvhkk0bk8oxa3e79yxwoxl&st=qqnib71k&raw=1",
+            "img3": "https://www.dropbox.com/scl/fi/ztyossb1bup3na7m398ra/frente_tcn.png?rlkey=86bbvhkk0bk8oxa3e79yxwoxl&st=qqnib71k&raw=1"
+         },
+         "cantidad_snacks": "10",
+         "servicio": {
+            "srv1": "reposicion de maquina",
+            "srv2": "servicio tecnico"
+         }
+      },
+      "maqs2": {
+         "marca": "Saeco",
          "modelo": "Megacold",
          "dimension": "0x0x0 cm",
          "peso": "0kg",
@@ -326,31 +342,15 @@
             "srv2": "servicio tecnico"
          }
       },
-      "maqs2": {
+      "maqs3": {
          "marca": "Saeco",
          "modelo": "Corallo",
          "dimension": "0x0x0 cm",
          "peso": "0kg",
          "img": {
-            "img1": "https://www.dropbox.com/scl/fi/ngd4odf4h25laj5yaiqp1/2.png?rlkey=b511zhorhpuz73z4uvf2mx5y4&st=hz8etjtf&raw=1",
-            "img2": "https://www.dropbox.com/scl/fi/ngd4odf4h25laj5yaiqp1/2.png?rlkey=b511zhorhpuz73z4uvf2mx5y4&st=hz8etjtf&raw=1",
-            "img3": "https://www.dropbox.com/scl/fi/ngd4odf4h25laj5yaiqp1/2.png?rlkey=b511zhorhpuz73z4uvf2mx5y4&st=hz8etjtf&raw=1"
-         },
-         "cantidad_snacks": "10",
-         "servicio": {
-            "srv1": "reposicion de maquina",
-            "srv2": "servicio tecnico"
-         }
-      },
-      "maqs3": {
-         "marca": "Necta",
-         "modelo": "Samba",
-         "dimension": "0x0x0 cm",
-         "peso": "0kg",
-         "img": {
-            "img1": "img",
-            "img2": "img2",
-            "img3": "img3"
+            "img1": "https://www.dropbox.com/scl/fi/6v0s2b82hz2aiddinh4s4/frente_corallo.png?rlkey=fgebn3e50g81iktctcvkk9gok&st=7txx0gr4&raw=1",
+            "img2": "https://www.dropbox.com/scl/fi/6v0s2b82hz2aiddinh4s4/frente_corallo.png?rlkey=fgebn3e50g81iktctcvkk9gok&st=7txx0gr4&raw=1",
+            "img3": "https://www.dropbox.com/scl/fi/6v0s2b82hz2aiddinh4s4/frente_corallo.png?rlkey=fgebn3e50g81iktctcvkk9gok&st=7txx0gr4&raw=1"
          },
          "cantidad_snacks": "10",
          "servicio": {
@@ -359,6 +359,22 @@
          }
       },
       "maqs4": {
+         "marca": "Necta",
+         "modelo": "Samba",
+         "dimension": "0x0x0 cm",
+         "peso": "0kg",
+         "img": {
+            "img1": "https://www.dropbox.com/scl/fi/cpsav8twmsuyjggv3dtfq/frente_samba.png?rlkey=zgjqptoebo3gy183knmc7vrdm&st=z5oh6byw&raw=1",
+            "img2": "https://www.dropbox.com/scl/fi/cpsav8twmsuyjggv3dtfq/frente_samba.png?rlkey=zgjqptoebo3gy183knmc7vrdm&st=z5oh6byw&raw=1",
+            "img3": "https://www.dropbox.com/scl/fi/cpsav8twmsuyjggv3dtfq/frente_samba.png?rlkey=zgjqptoebo3gy183knmc7vrdm&st=z5oh6byw&raw=1"
+         },
+         "cantidad_snacks": "10",
+         "servicio": {
+            "srv1": "reposicion de maquina",
+            "srv2": "servicio tecnico"
+         }
+      },
+      "maqs5": {
          "marca": "Coca-Cola",
          "modelo": "Coca",
          "dimension": "0x0x0 cm",
@@ -374,15 +390,15 @@
             "srv2": "servicio tecnico"
          }
       },
-      "maqs5": {
+      "maqs6": {
          "marca": "Necta",
          "modelo": "Snakky",
          "dimension": "0x0x0 cm",
          "peso": "0kg",
          "img": {
-            "img1": "img",
-            "img2": "img2",
-            "img3": "img3"
+            "img1": "https://www.dropbox.com/scl/fi/lsi1ckp9in5qtb7j8wc9t/frente_snacky.png?rlkey=388r4jqwsheeg3fnsj0tkx25i&st=lsgc3vk3&raw=1",
+            "img2": "https://www.dropbox.com/scl/fi/lsi1ckp9in5qtb7j8wc9t/frente_snacky.png?rlkey=388r4jqwsheeg3fnsj0tkx25i&st=lsgc3vk3&raw=1",
+            "img3": "https://www.dropbox.com/scl/fi/lsi1ckp9in5qtb7j8wc9t/frente_snacky.png?rlkey=388r4jqwsheeg3fnsj0tkx25i&st=lsgc3vk3&raw=1"
          },
          "cantidad_snacks": "10",
          "servicio": {
@@ -390,7 +406,7 @@
             "srv2": "servicio tecnico"
          }
       },
-      "maqs6": {
+      "maqs7": {
          "marca": "Saeco",
          "modelo": "Aliseo",
          "dimension": "0x0x0 cm",
@@ -406,15 +422,31 @@
             "srv2": "servicio tecnico"
          }
       },
-      "maqs7": {
+      "maqs8": {
          "marca": "Necta",
          "modelo": "Melodia",
          "dimension": "0x0x0 cm",
          "peso": "0kg",
          "img": {
-            "img1": "img",
-            "img2": "img2",
-            "img3": "img3"
+            "img1": "https://www.dropbox.com/scl/fi/uucubo7u185fb1qxckrav/frente_melodia.png?rlkey=bs66bbg8hu0g22riqigk33z7b&st=rts6suwu&raw=1",
+            "img2": "https://www.dropbox.com/scl/fi/uucubo7u185fb1qxckrav/frente_melodia.png?rlkey=bs66bbg8hu0g22riqigk33z7b&st=rts6suwu&raw=1",
+            "img3": "https://www.dropbox.com/scl/fi/uucubo7u185fb1qxckrav/frente_melodia.png?rlkey=bs66bbg8hu0g22riqigk33z7b&st=rts6suwu&raw=1"
+         },
+         "cantidad_snacks": "10",
+         "servicio": {
+            "srv1": "reposicion de maquina",
+            "srv2": "servicio tecnico"
+         }
+      },
+      "maqs9": {
+         "marca": "Necta",
+         "modelo": "Orchestra",
+         "dimension": "0x0x0 cm",
+         "peso": "0kg",
+         "img": {
+            "img1": "https://www.dropbox.com/scl/fi/85fm1g9b5ti8hx9qchsmm/frente_orchestra.png?rlkey=df96bqnihqrkvef2w8ujeiays&st=rfmxemac&raw=1",
+            "img2": "https://www.dropbox.com/scl/fi/85fm1g9b5ti8hx9qchsmm/frente_orchestra.png?rlkey=df96bqnihqrkvef2w8ujeiays&st=rfmxemac&raw=1",
+            "img3": "https://www.dropbox.com/scl/fi/85fm1g9b5ti8hx9qchsmm/frente_orchestra.png?rlkey=df96bqnihqrkvef2w8ujeiays&st=rfmxemac&raw=1"
          },
          "cantidad_snacks": "10",
          "servicio": {
