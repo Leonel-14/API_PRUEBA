@@ -5,6 +5,7 @@
          "modelo": "Cristallo Evo 400/600",
          "dimension": "58x183x67 cm",
          "peso": "125kg",
+         "potencia":"100W",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/mzhtwi4qzsnoito1j371k/frente.png?rlkey=tsbmphhey72i980dq0korsx3c&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/n78h1fgy5h72ojsiafvi5/abierto.png?rlkey=dca480iwlwo6hdwwlu63fvwgq&raw=1",
@@ -37,6 +38,7 @@
          "modelo": "Opera",
          "dimension": "41x157x53 cm",
          "peso": "69kg",
+         "potencia":"100W",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/pvkp5vxtq2o5jeeqtqv92/frente_opera.png?rlkey=dgzc4w9rdp0r9x218p89uldpp&st=e7a8hqfi&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/pvkp5vxtq2o5jeeqtqv92/frente_opera.png?rlkey=dgzc4w9rdp0r9x218p89uldpp&st=e7a8hqfi&raw=1",
@@ -69,6 +71,7 @@
          "modelo": "Cristallo Boton 400/600",
          "dimension": "68x183x58 cm",
          "peso": "125kg",
+         "potencia":"100W",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/kneac0q1n5cnqgrqwcc6k/frente_boton.png?rlkey=46crirwsj6xdatnrlzdocp5dn&st=cbaxnupn&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/kneac0q1n5cnqgrqwcc6k/frente_boton.png?rlkey=46crirwsj6xdatnrlzdocp5dn&st=cbaxnupn&raw=1",
@@ -99,6 +102,7 @@
          "modelo": "10P",
          "dimension": "62x183x64 cm",
          "peso": "114kg",
+         "potencia":"100W",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/0x71e8ut76x5wd8ok802u/frente_10p.png?rlkey=pihwvtg25vdfpt7lxqrqbpzpd&st=u2qaekvu&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/0x71e8ut76x5wd8ok802u/frente_10p.png?rlkey=pihwvtg25vdfpt7lxqrqbpzpd&st=u2qaekvu&raw=1",
@@ -127,6 +131,7 @@
          "modelo": "Atlante",
          "dimension": "75x183x86 cm",
          "peso": "184kg",
+         "potencia":"100W",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/ys1sggnh480rlrrw7qrgg/frente_atlante.png?rlkey=93jmop99m6rue0qh1t0nviusx&st=us368qdi&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/ys1sggnh480rlrrw7qrgg/frente_atlante.png?rlkey=93jmop99m6rue0qh1t0nviusx&st=us368qdi&raw=1",
@@ -159,6 +164,7 @@
          "modelo": "Rubino",
          "dimension": "41x76x53 cm",
          "peso": "40kg",
+         "potencia":"100W",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/e882f4t7046plyjgofj9u/frente_rubino.png?rlkey=m958421tzfyl5ckrjggwoxbje&st=70ak9ovy&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/e882f4t7046plyjgofj9u/frente_rubino.png?rlkey=m958421tzfyl5ckrjggwoxbje&st=70ak9ovy&raw=1",
@@ -185,6 +191,7 @@
          "modelo": "Kikko",
          "dimension": "54x170x69 cm",
          "peso": "114kg",
+         "potencia":"100W",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/9hpfd8vtuabzdfxo2gzcb/frente_kikko.png?rlkey=vtwq2bmdwuogq0svqj3lu5kok&st=vjknqyci&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/9hpfd8vtuabzdfxo2gzcb/frente_kikko.png?rlkey=vtwq2bmdwuogq0svqj3lu5kok&st=vjknqyci&raw=1",
@@ -214,6 +221,7 @@
          "modelo": "Kikko Max",
          "dimension": "54x183x65 cm",
          "peso": "126kg",
+         "potencia":"100W",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/lw6aa18uifoxorz8th75m/frente_kikkomax.png?rlkey=7po1r80213mmdghy9qt53qhav&st=6qu9fq2f&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/lw6aa18uifoxorz8th75m/frente_kikkomax.png?rlkey=7po1r80213mmdghy9qt53qhav&st=6qu9fq2f&raw=1",
@@ -242,6 +250,7 @@
          "modelo": "Concerto",
          "dimension": "60x170x74 cm",
          "peso": "125kg",
+         "potencia":"100W",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/54ilfu7y1qvmervwjufl7/frente_concerto.png?rlkey=c14ca8ev5jg3safu0fvxio5at&st=4jlpyltz&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/54ilfu7y1qvmervwjufl7/frente_concerto.png?rlkey=c14ca8ev5jg3safu0fvxio5at&st=4jlpyltz&raw=1",
@@ -271,6 +280,7 @@
          "modelo": "Diamante",
          "dimension": "72x191x84 cm",
          "peso": "243kg",
+         "potencia":"100W",
          "img": {
             "img1": "https://www.dropbox.com/scl/fi/o2oery2kwevf08rcisd1h/frente_diamante.png?rlkey=c27rewoso4r3kmrst2n3b4ybs&st=fvmup01t&raw=1",
             "img2": "https://www.dropbox.com/scl/fi/o2oery2kwevf08rcisd1h/frente_diamante.png?rlkey=c27rewoso4r3kmrst2n3b4ybs&st=fvmup01t&raw=1",
