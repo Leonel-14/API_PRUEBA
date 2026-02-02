@@ -367,7 +367,8 @@
             "srv2": "servicio tecnico"
          }
       },
-      "maqs2": { "Saeco",
+      "maqs2": { 
+         "marca":"Saeco",
          "modelo": "Megacold",
          "dimension": "100x183x79 cm",
          "peso": "270kg",
