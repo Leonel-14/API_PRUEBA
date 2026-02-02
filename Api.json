@@ -367,17 +367,95 @@
             "srv2": "servicio tecnico"
          }
       },
-      "maqs2": {
-         "marca": "Saeco",
+      "maqs2": { "Saeco",
          "modelo": "Megacold",
-         "dimension": "0x0x0 cm",
-         "peso": "0kg",
+         "dimension": "100x183x79 cm",
+         "peso": "270kg",
          "img": {
-            "img1": "https://www.dropbox.com/scl/fi/ydlx4o3tm6gioi09zzfl8/frente_megacold.png?rlkey=3chbovthhny4us4rxn4dt3qvi&st=8vl6dtdj&raw=1",
-            "img2": "https://www.dropbox.com/scl/fi/ydlx4o3tm6gioi09zzfl8/frente_megacold.png?rlkey=3chbovthhny4us4rxn4dt3qvi&st=8vl6dtdj&raw=1",
-            "img3": "https://www.dropbox.com/scl/fi/ydlx4o3tm6gioi09zzfl8/frente_megacold.png?rlkey=3chbovthhny4us4rxn4dt3qvi&st=8vl6dtdj&raw=1"
+            "img1": "https://www.dropbox.com/scl/fi/ydlx4o3tm6gioi09zzfl8/frente_megacold.png?rlkey=3chbovthhny4us4rxn4dt3qvi&st=8vl6dtdj&raw=1"
          },
-         "cantidad_snacks": "10",
+         "productos":{
+           "bebidas":{
+             "Coca Botella":"https://www.dropbox.com/scl/fi/opwcus0srdpnxf0eq5bg6/cocabotella.png?rlkey=iiv2y1ndqg8vcvvna5feg2jek&st=u3sip02x&raw=1",
+             "Sprite Botella":"https://www.dropbox.com/scl/fi/qip0ea66zc5e1gzq0l6cp/sprite.png?rlkey=hcifkvung5i6h77e2ci5sw2me&st=5p30uq5p&raw=1",
+             "Fanta Botella":"https://www.dropbox.com/scl/fi/qkhhavpcuqijw8p4smgde/fant.png?rlkey=45x7shaigimmp8k8n3tbxfpo1&st=ic795rlo&raw=1",
+             "Coca Lata":"https://www.dropbox.com/scl/fi/f0mag1dfsqqoo8iz8moyj/cocalata.png?rlkey=3vv07vmiski7ridffcbku1by4&st=qm6tiy2c&raw=1",
+             "Sprite Lata":"https://www.dropbox.com/scl/fi/huhm016hm1jv6kowiu286/spritelata.png?rlkey=zfs1y61x7w89i9ap3qfb8qten&st=40pr5z45&raw=1",
+             "Fanta Lata":"https://www.dropbox.com/scl/fi/dtldvdphbvbu23vhhktcn/fantalata.png?rlkey=d7ll0o3o976trc5e20almt4v4&st=b66rv5k3&raw=1",
+             "Agua Smart":"https://www.dropbox.com/scl/fi/axuuvgu90azfbmy8cmdeu/smart.png?rlkey=umywp5jeuq1h8mxfsapyp19u5&st=88cxw8er&raw=1",
+             "Agua Benedicto":"https://www.dropbox.com/scl/fi/pbhh92se5lr1fl7k5vkbs/benedicto.png?rlkey=0gzfucr7lqlmgq4dwcf3al4ia&st=kv6q39qw&raw=1",
+             "Agua Ko":"https://www.dropbox.com/scl/fi/wa1me0ml88qfufayy25l6/agua-ko.png?rlkey=7wylg85hpgkvi94ur1om9ug0i&st=qixoocec&raw=1",
+             "Aquarius":"https://www.dropbox.com/scl/fi/4vplu2641942gzenicfpr/aquarius.png?rlkey=owzdhq7drqer3ys9a3o25xzv1&st=1alru3d4&raw=1",
+             "Baggio":"https://www.dropbox.com/scl/fi/sd9tjdguibsg9iqd1vh2l/baggio.png?rlkey=w0yipmcrtrn94vm6z8sf5lvoo&st=4plijjv6&raw=1",
+             "Powerade":"https://www.dropbox.com/scl/fi/h30d8k8qyvhuw8ntuj2pi/powerade.png?rlkey=1ah6fv14vf534e7ttsfo87rv8&st=xtu1b59e&raw=1",
+             "Monster":"https://www.dropbox.com/scl/fi/nfx8yk3db4jpvze19v5vk/monster.png?rlkey=56tjrgxtzveyxv2yndtexoqyr&st=aba2suwf&raw=1",
+             "Sweep Azul":"https://www.dropbox.com/scl/fi/i08012rmtcn1zeyu1gbvc/sweepazul.png?rlkey=b2ku5uy92yjfvwhy9yalwizow&st=1c9tw22g&raw=1",
+             "Sweep Amarillo":"https://www.dropbox.com/scl/fi/tmiw07xnagqe6h8fgtk3j/sweeamarillo.png?rlkey=mb9oa8lconttb23orj49e8rne&st=nwidk1km&raw=1"
+           },
+           "alfajores":{
+             "block":"https://www.dropbox.com/scl/fi/bykd1vlh5zv5c4gnwkm07/block.png?rlkey=kbsyxbcctafb0m4gteq2lg4vr&st=1qa8b3bn&raw=1",
+             "bn":"https://www.dropbox.com/scl/fi/7cd4pe1zlqbxdy682pfdr/bn.png?rlkey=ueyobk3vbkmjve6uzvhpchisg&st=isspkxbh&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/otnmhownit7wfxt7dosux/bonobon.png?rlkey=0u7q0txi8jcggda4cv4fo6135&st=4yvflh3o&raw=1",
+             "chocotorta":"https://www.dropbox.com/scl/fi/xnxq1ucsnuv6yg8bjcxvs/chocotorta.png?rlkey=zf4y1y4nxpeal66yy1l7e58aa&st=qr5dps08&raw=1",
+             "fantoche":"https://www.dropbox.com/scl/fi/7lewm0msdwnuyrobf15nz/fantoche.png?rlkey=xniap4kkqw82wani6pz8s62xp&st=0qi9x7ah&raw=1",
+             "gula":"https://www.dropbox.com/scl/fi/ufdu7d7e934z8e4tkcqdv/gula.png?rlkey=l1s0hioju4a50zctl7tuudong&st=rd9p26lo&raw=1",
+             "jorgelin":"https://www.dropbox.com/scl/fi/glvz40jo2hljaz3rqxg1r/jorgelin.png?rlkey=joclxzsqf5f2k3rxs8y3glhlj&st=j5toodfx&raw=1",
+             "jorgito":"https://www.dropbox.com/scl/fi/aq9f0eq5u4i6rmhu30m3x/jorgito.png?rlkey=tbhlsb9sgxhk5wnsp277d8ur4&st=bsh47mk7&raw=1",
+             "aguila":"https://www.dropbox.com/scl/fi/gu21ncot99bq7h4wtxfu4/aguila.png?rlkey=dzleydshslud20qfziv8g7b2j&st=iah5g1qo&raw=1",
+             "rasta":"https://www.dropbox.com/scl/fi/f2124qpgu2s0z64yckeam/rasta.png?rlkey=uprv3b439kylcswlb7g5pdkk4&st=hmknqb1z&raw=1"
+           },
+           "galletas":{
+             "9deoro":"https://www.dropbox.com/scl/fi/ivwdelcmatu5c7v6wqhkk/9deorolight.png?rlkey=qn1i5gfphev88i5kkvjldlfcr&st=bebeg7ls&raw=1",
+             "9deoronegro":"https://www.dropbox.com/scl/fi/misfyp3d9uilvw5mb0kjo/9oronegra.png?rlkey=ftnobt35in5d7wjaoanzgjcpa&st=b02e0mfx&raw=1",
+             "celosas":"https://www.dropbox.com/scl/fi/v5v4co9aq0m8gauyrztst/celosas_.png?rlkey=kevlvpkm745icw802rlrg7jhr&st=gzclyb3t&raw=1",
+             "coronita":"https://www.dropbox.com/scl/fi/nfv1s157lfd49ckwp3t6m/coronita_.png?rlkey=zvr5suzk0ti26rb40l3875zxu&st=snwydst6&raw=1",
+             "criollita":"https://www.dropbox.com/scl/fi/idpljyzmimxjum6v59dgp/criollitas.png?rlkey=dyd9cy5gp8ewpitrskavnknbi&st=hi9r0krq&raw=1",
+             "donsatur":"https://www.dropbox.com/scl/fi/kq20g0nv37zij45o2o0s7/donsatur.png?rlkey=trf2kzxdphdo8txpwf2od5yq7&st=ptb7rz7i&raw=1",
+             "macuca":"https://www.dropbox.com/scl/fi/bm146ccwn7evf0p5jfbgp/macuca.png?rlkey=2uzoei8bithvcn5t7nyeq51kw&st=mqg2659v&raw=1",
+             "merengada":"https://www.dropbox.com/scl/fi/g56h7wvdppr7o6lvdbyd4/merengada.png?rlkey=52n4me59lifz7ym8mnm5i477a&st=1mykv873&raw=1",
+             "sonrisa":"https://www.dropbox.com/scl/fi/x3p65mijm1m4j9vi4luq6/sonrisas.png?rlkey=vscskvkmwbzmcvbn87tws5rpe&st=dmgmcb0w&raw=1",
+             "rumba":"https://www.dropbox.com/scl/fi/pgwdbbqs2z23wdcmcoc0p/rumba.png?rlkey=g6pb5oyfgnf3f4jzma65auwut&st=da7vo3e3&raw=1",
+             "opera":"https://www.dropbox.com/scl/fi/22cl7njf8wu0eq9z8ecsx/opera.png?rlkey=th04r2wgm2l4pc8b8q7wz78uk&st=xjoyacoc&raw=1",
+             "pepa":"https://www.dropbox.com/scl/fi/ik96klbrthntpp3a6a2r1/pepa.png?rlkey=qyb1osuz54dxvwld9x7iro00e&st=2u566hxt&raw=1"
+           },
+           "chocolates":{
+             "block":"https://www.dropbox.com/scl/fi/6vuhd2odpkmpyro38fgtc/block.png?rlkey=0r7qws85ubhnbh3rhmgy6oca1&st=7qb0oryo&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/a3dbzbcknjh6yszrdqjxd/bonobon-barra.png?rlkey=zprkjq0mq7ybleavlyc3dm4eo&st=x14naajz&raw=1",
+             "cofler":"https://www.dropbox.com/scl/fi/pecpuql7v9wsxh5zl86dz/cofler.png?rlkey=lozttiqiit46vnjnc7jknc109&st=ytb195iq&raw=1",
+             "hamlet":"https://www.dropbox.com/scl/fi/kegy8yc8ijmcoe8hzxvd8/hamlet.png?rlkey=a74isgnex1s76dxykcjjrb9x1&st=r12157b2&raw=1",
+             "mecano":"https://www.dropbox.com/scl/fi/111rs56fmcg5nqc1051q9/mecano.png?rlkey=aoksg6zl5hhzvidyfg7ywk6f1&st=l6t5h5er&raw=1",
+             "nugaton":"https://www.dropbox.com/scl/fi/fe7afjyasj0iu1qdst8b5/nugaton.png?rlkey=irjb6tmvwniovxcej3i7n5h9k&st=rbvbvw1r&raw=1",
+             "rocklets":"https://www.dropbox.com/scl/fi/gluoel8ccmvc6flerkidc/rocklets.png?rlkey=d3nkn3itlh6v5rab1c93n331f&st=3wwxx8rd&raw=1"
+           },
+           "salado":{
+             "kesitas":"https://www.dropbox.com/scl/fi/uxkqvtv5tbeati9jdhc8d/kesitas.png?rlkey=cyckyxaj9t1f4cvlw17u311jp&st=o5cjcb4f&raw=1",
+             "rex":"https://www.dropbox.com/scl/fi/vng4295iy1srqqf00jy2y/rex.png?rlkey=7ieoknuw0ixkgjdin80nyy2xy&st=d8gt5d0e&raw=1",
+             "saladix":"https://www.dropbox.com/scl/fi/q5axeqwvpoiv2dcy5bz38/saladix.png?rlkey=knkb88q20xwfzwlcizgzvutmf&st=u6599b7q&raw=1",
+             "talitas":"https://www.dropbox.com/scl/fi/h8r7qb5u48ybazd769w6v/talitas.png?rlkey=umc5ve3jgi748odveiauwyruy&st=g39hpeyp&raw=1",
+             "takis":"https://www.dropbox.com/scl/fi/j2kjk2ejzdaiqsrw9rlpp/takis.png?rlkey=s2xtcm56twtj6t0zauvec1h32&st=kknh8bl9&raw=1",
+             "traviata":"https://www.dropbox.com/scl/fi/rh0t9k3hdirli1e0ckbxt/traviata.png?rlkey=ntrieojvkr0nehexmbzow3fzz&st=gzcnq540&raw=1"
+           },
+           "varios":{
+             "beldent":"https://www.dropbox.com/scl/fi/96cq59r8g3wflcrv2lt3j/beldent.png?rlkey=yhapa39nu5g6uds3h8zgq5j56&st=hrsvgi06&raw=1",
+             "menthoplus":"https://www.dropbox.com/scl/fi/60k6c20cekdjpkzt0tt55/menthoplus.png?rlkey=eh6vz0bgm5ib35jijdn57klfx&st=18oe23n4&raw=1",
+             "mogul":"https://www.dropbox.com/scl/fi/3in57oe5w8gxo7hh2yj6v/mogul.png?rlkey=emc1z9fwsy67id63e73ftjfr9&st=uixvmrvp&raw=1",
+             "mantecol":"https://www.dropbox.com/scl/fi/ymm4nt80azw3qnpfl84z1/mantecol.png?rlkey=ux7umk8f3ytn24c7p1v0sjtd3&st=sy9ptwq5&raw=1",
+             "sugus":"https://www.dropbox.com/scl/fi/99brvs04az96aqpjed4dm/sugus.png?rlkey=wokcp2gdayjvyb1j2y959wnbn&st=taieoya3&raw=1",
+             "turron":"https://www.dropbox.com/scl/fi/cojrlttpwszap9bk4z6ui/turron.png?rlkey=aihl38n3mcumnv3bl2urz62a5&st=xo0ca4yh&raw=1"
+           },
+           "saludables":{
+             "cerealflow":"https://www.dropbox.com/scl/fi/z9n62vcgb675948w5f4yh/cerealflow.png?rlkey=dwpcvj9n8wxdmz5sl8hkv0mdi&st=j12u6gb6&raw=1",
+             "cerealmix":"https://www.dropbox.com/scl/fi/jy73us4dca4w97mc4qi4w/cerealmix.png?rlkey=8y10vd1ny1e0s6fbp9faws964&st=p7bl615b&raw=1",
+             "chocoarroz":"https://www.dropbox.com/scl/fi/w26n6deavudmlyh6wfe8d/chocoarroz.png?rlkey=dswt3vrp2ypzgobuqfw763tl5&st=w5xwfqsr&raw=1",
+             "chocobar":"https://www.dropbox.com/scl/fi/vxocfvm9tvoqtjfbin21p/chocobar.png?rlkey=e9y881u0708x10d4x5sp41hzy&st=4l3jnc1b&raw=1",
+             "coronitas":"https://www.dropbox.com/scl/fi/qq5xphf3h5s7sg4vb7vc6/coronitaverde.png?rlkey=fqq9o4wm432607lq0jbffza1b&st=v7ewwmii&raw=1",
+             "futigram":"https://www.dropbox.com/scl/fi/kk989n4jxx4qtf6t09ly6/futigrram.png?rlkey=kvm3tcffni9fks1lr6tsjn17l&st=mntsnffy&raw=1",
+             "hogareña":"https://www.dropbox.com/scl/fi/h98waizx10xxe6p11aaf6/hogare-a.png?rlkey=jt9n01mr2i2kozjsjdgv2s87g&st=n5wt1lmr&raw=1",
+             "integra":"https://www.dropbox.com/scl/fi/ohsupbujtbvy0obpiodkf/integra.png?rlkey=jfx3q70b8m3panso4focllyv1&st=d8ynbj1c&raw=1",
+             "integra2":"https://www.dropbox.com/scl/fi/z0km67amxsxo6hhguw36g/integra2.png?rlkey=rrbrmn4t4osk0gh7mxuj6vx48&st=365b1gaj&raw=1"
+           }
+         },
+         "cantidad_selecciones": "10",
          "servicio": {
             "srv1": "reposicion de maquina",
             "srv2": "servicio tecnico"
@@ -386,14 +464,93 @@
       "maqs3": {
          "marca": "Saeco",
          "modelo": "Corallo",
-         "dimension": "0x0x0 cm",
-         "peso": "0kg",
+         "dimension": "91x183x90 cm",
+         "peso": "275",
          "img": {
-            "img1": "https://www.dropbox.com/scl/fi/6v0s2b82hz2aiddinh4s4/frente_corallo.png?rlkey=fgebn3e50g81iktctcvkk9gok&st=7txx0gr4&raw=1",
-            "img2": "https://www.dropbox.com/scl/fi/6v0s2b82hz2aiddinh4s4/frente_corallo.png?rlkey=fgebn3e50g81iktctcvkk9gok&st=7txx0gr4&raw=1",
-            "img3": "https://www.dropbox.com/scl/fi/6v0s2b82hz2aiddinh4s4/frente_corallo.png?rlkey=fgebn3e50g81iktctcvkk9gok&st=7txx0gr4&raw=1"
+            "img1": "https://www.dropbox.com/scl/fi/85fm1g9b5ti8hx9qchsmm/frente_orchestra.png?rlkey=df96bqnihqrkvef2w8ujeiays&st=rfmxemac&raw=1"
          },
-         "cantidad_snacks": "10",
+         "productos":{
+           "bebidas":{
+             "Coca Botella":"https://www.dropbox.com/scl/fi/opwcus0srdpnxf0eq5bg6/cocabotella.png?rlkey=iiv2y1ndqg8vcvvna5feg2jek&st=u3sip02x&raw=1",
+             "Sprite Botella":"https://www.dropbox.com/scl/fi/qip0ea66zc5e1gzq0l6cp/sprite.png?rlkey=hcifkvung5i6h77e2ci5sw2me&st=5p30uq5p&raw=1",
+             "Fanta Botella":"https://www.dropbox.com/scl/fi/qkhhavpcuqijw8p4smgde/fant.png?rlkey=45x7shaigimmp8k8n3tbxfpo1&st=ic795rlo&raw=1",
+             "Coca Lata":"https://www.dropbox.com/scl/fi/f0mag1dfsqqoo8iz8moyj/cocalata.png?rlkey=3vv07vmiski7ridffcbku1by4&st=qm6tiy2c&raw=1",
+             "Sprite Lata":"https://www.dropbox.com/scl/fi/huhm016hm1jv6kowiu286/spritelata.png?rlkey=zfs1y61x7w89i9ap3qfb8qten&st=40pr5z45&raw=1",
+             "Fanta Lata":"https://www.dropbox.com/scl/fi/dtldvdphbvbu23vhhktcn/fantalata.png?rlkey=d7ll0o3o976trc5e20almt4v4&st=b66rv5k3&raw=1",
+             "Agua Smart":"https://www.dropbox.com/scl/fi/axuuvgu90azfbmy8cmdeu/smart.png?rlkey=umywp5jeuq1h8mxfsapyp19u5&st=88cxw8er&raw=1",
+             "Agua Benedicto":"https://www.dropbox.com/scl/fi/pbhh92se5lr1fl7k5vkbs/benedicto.png?rlkey=0gzfucr7lqlmgq4dwcf3al4ia&st=kv6q39qw&raw=1",
+             "Agua Ko":"https://www.dropbox.com/scl/fi/wa1me0ml88qfufayy25l6/agua-ko.png?rlkey=7wylg85hpgkvi94ur1om9ug0i&st=qixoocec&raw=1",
+             "Aquarius":"https://www.dropbox.com/scl/fi/4vplu2641942gzenicfpr/aquarius.png?rlkey=owzdhq7drqer3ys9a3o25xzv1&st=1alru3d4&raw=1",
+             "Baggio":"https://www.dropbox.com/scl/fi/sd9tjdguibsg9iqd1vh2l/baggio.png?rlkey=w0yipmcrtrn94vm6z8sf5lvoo&st=4plijjv6&raw=1",
+             "Powerade":"https://www.dropbox.com/scl/fi/h30d8k8qyvhuw8ntuj2pi/powerade.png?rlkey=1ah6fv14vf534e7ttsfo87rv8&st=xtu1b59e&raw=1",
+             "Monster":"https://www.dropbox.com/scl/fi/nfx8yk3db4jpvze19v5vk/monster.png?rlkey=56tjrgxtzveyxv2yndtexoqyr&st=aba2suwf&raw=1",
+             "Sweep Azul":"https://www.dropbox.com/scl/fi/i08012rmtcn1zeyu1gbvc/sweepazul.png?rlkey=b2ku5uy92yjfvwhy9yalwizow&st=1c9tw22g&raw=1",
+             "Sweep Amarillo":"https://www.dropbox.com/scl/fi/tmiw07xnagqe6h8fgtk3j/sweeamarillo.png?rlkey=mb9oa8lconttb23orj49e8rne&st=nwidk1km&raw=1"
+           },
+           "alfajores":{
+             "block":"https://www.dropbox.com/scl/fi/bykd1vlh5zv5c4gnwkm07/block.png?rlkey=kbsyxbcctafb0m4gteq2lg4vr&st=1qa8b3bn&raw=1",
+             "bn":"https://www.dropbox.com/scl/fi/7cd4pe1zlqbxdy682pfdr/bn.png?rlkey=ueyobk3vbkmjve6uzvhpchisg&st=isspkxbh&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/otnmhownit7wfxt7dosux/bonobon.png?rlkey=0u7q0txi8jcggda4cv4fo6135&st=4yvflh3o&raw=1",
+             "chocotorta":"https://www.dropbox.com/scl/fi/xnxq1ucsnuv6yg8bjcxvs/chocotorta.png?rlkey=zf4y1y4nxpeal66yy1l7e58aa&st=qr5dps08&raw=1",
+             "fantoche":"https://www.dropbox.com/scl/fi/7lewm0msdwnuyrobf15nz/fantoche.png?rlkey=xniap4kkqw82wani6pz8s62xp&st=0qi9x7ah&raw=1",
+             "gula":"https://www.dropbox.com/scl/fi/ufdu7d7e934z8e4tkcqdv/gula.png?rlkey=l1s0hioju4a50zctl7tuudong&st=rd9p26lo&raw=1",
+             "jorgelin":"https://www.dropbox.com/scl/fi/glvz40jo2hljaz3rqxg1r/jorgelin.png?rlkey=joclxzsqf5f2k3rxs8y3glhlj&st=j5toodfx&raw=1",
+             "jorgito":"https://www.dropbox.com/scl/fi/aq9f0eq5u4i6rmhu30m3x/jorgito.png?rlkey=tbhlsb9sgxhk5wnsp277d8ur4&st=bsh47mk7&raw=1",
+             "aguila":"https://www.dropbox.com/scl/fi/gu21ncot99bq7h4wtxfu4/aguila.png?rlkey=dzleydshslud20qfziv8g7b2j&st=iah5g1qo&raw=1",
+             "rasta":"https://www.dropbox.com/scl/fi/f2124qpgu2s0z64yckeam/rasta.png?rlkey=uprv3b439kylcswlb7g5pdkk4&st=hmknqb1z&raw=1"
+           },
+           "galletas":{
+             "9deoro":"https://www.dropbox.com/scl/fi/ivwdelcmatu5c7v6wqhkk/9deorolight.png?rlkey=qn1i5gfphev88i5kkvjldlfcr&st=bebeg7ls&raw=1",
+             "9deoronegro":"https://www.dropbox.com/scl/fi/misfyp3d9uilvw5mb0kjo/9oronegra.png?rlkey=ftnobt35in5d7wjaoanzgjcpa&st=b02e0mfx&raw=1",
+             "celosas":"https://www.dropbox.com/scl/fi/v5v4co9aq0m8gauyrztst/celosas_.png?rlkey=kevlvpkm745icw802rlrg7jhr&st=gzclyb3t&raw=1",
+             "coronita":"https://www.dropbox.com/scl/fi/nfv1s157lfd49ckwp3t6m/coronita_.png?rlkey=zvr5suzk0ti26rb40l3875zxu&st=snwydst6&raw=1",
+             "criollita":"https://www.dropbox.com/scl/fi/idpljyzmimxjum6v59dgp/criollitas.png?rlkey=dyd9cy5gp8ewpitrskavnknbi&st=hi9r0krq&raw=1",
+             "donsatur":"https://www.dropbox.com/scl/fi/kq20g0nv37zij45o2o0s7/donsatur.png?rlkey=trf2kzxdphdo8txpwf2od5yq7&st=ptb7rz7i&raw=1",
+             "macuca":"https://www.dropbox.com/scl/fi/bm146ccwn7evf0p5jfbgp/macuca.png?rlkey=2uzoei8bithvcn5t7nyeq51kw&st=mqg2659v&raw=1",
+             "merengada":"https://www.dropbox.com/scl/fi/g56h7wvdppr7o6lvdbyd4/merengada.png?rlkey=52n4me59lifz7ym8mnm5i477a&st=1mykv873&raw=1",
+             "sonrisa":"https://www.dropbox.com/scl/fi/x3p65mijm1m4j9vi4luq6/sonrisas.png?rlkey=vscskvkmwbzmcvbn87tws5rpe&st=dmgmcb0w&raw=1",
+             "rumba":"https://www.dropbox.com/scl/fi/pgwdbbqs2z23wdcmcoc0p/rumba.png?rlkey=g6pb5oyfgnf3f4jzma65auwut&st=da7vo3e3&raw=1",
+             "opera":"https://www.dropbox.com/scl/fi/22cl7njf8wu0eq9z8ecsx/opera.png?rlkey=th04r2wgm2l4pc8b8q7wz78uk&st=xjoyacoc&raw=1",
+             "pepa":"https://www.dropbox.com/scl/fi/ik96klbrthntpp3a6a2r1/pepa.png?rlkey=qyb1osuz54dxvwld9x7iro00e&st=2u566hxt&raw=1"
+           },
+           "chocolates":{
+             "block":"https://www.dropbox.com/scl/fi/6vuhd2odpkmpyro38fgtc/block.png?rlkey=0r7qws85ubhnbh3rhmgy6oca1&st=7qb0oryo&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/a3dbzbcknjh6yszrdqjxd/bonobon-barra.png?rlkey=zprkjq0mq7ybleavlyc3dm4eo&st=x14naajz&raw=1",
+             "cofler":"https://www.dropbox.com/scl/fi/pecpuql7v9wsxh5zl86dz/cofler.png?rlkey=lozttiqiit46vnjnc7jknc109&st=ytb195iq&raw=1",
+             "hamlet":"https://www.dropbox.com/scl/fi/kegy8yc8ijmcoe8hzxvd8/hamlet.png?rlkey=a74isgnex1s76dxykcjjrb9x1&st=r12157b2&raw=1",
+             "mecano":"https://www.dropbox.com/scl/fi/111rs56fmcg5nqc1051q9/mecano.png?rlkey=aoksg6zl5hhzvidyfg7ywk6f1&st=l6t5h5er&raw=1",
+             "nugaton":"https://www.dropbox.com/scl/fi/fe7afjyasj0iu1qdst8b5/nugaton.png?rlkey=irjb6tmvwniovxcej3i7n5h9k&st=rbvbvw1r&raw=1",
+             "rocklets":"https://www.dropbox.com/scl/fi/gluoel8ccmvc6flerkidc/rocklets.png?rlkey=d3nkn3itlh6v5rab1c93n331f&st=3wwxx8rd&raw=1"
+           },
+           "salado":{
+             "kesitas":"https://www.dropbox.com/scl/fi/uxkqvtv5tbeati9jdhc8d/kesitas.png?rlkey=cyckyxaj9t1f4cvlw17u311jp&st=o5cjcb4f&raw=1",
+             "rex":"https://www.dropbox.com/scl/fi/vng4295iy1srqqf00jy2y/rex.png?rlkey=7ieoknuw0ixkgjdin80nyy2xy&st=d8gt5d0e&raw=1",
+             "saladix":"https://www.dropbox.com/scl/fi/q5axeqwvpoiv2dcy5bz38/saladix.png?rlkey=knkb88q20xwfzwlcizgzvutmf&st=u6599b7q&raw=1",
+             "talitas":"https://www.dropbox.com/scl/fi/h8r7qb5u48ybazd769w6v/talitas.png?rlkey=umc5ve3jgi748odveiauwyruy&st=g39hpeyp&raw=1",
+             "takis":"https://www.dropbox.com/scl/fi/j2kjk2ejzdaiqsrw9rlpp/takis.png?rlkey=s2xtcm56twtj6t0zauvec1h32&st=kknh8bl9&raw=1",
+             "traviata":"https://www.dropbox.com/scl/fi/rh0t9k3hdirli1e0ckbxt/traviata.png?rlkey=ntrieojvkr0nehexmbzow3fzz&st=gzcnq540&raw=1"
+           },
+           "varios":{
+             "beldent":"https://www.dropbox.com/scl/fi/96cq59r8g3wflcrv2lt3j/beldent.png?rlkey=yhapa39nu5g6uds3h8zgq5j56&st=hrsvgi06&raw=1",
+             "menthoplus":"https://www.dropbox.com/scl/fi/60k6c20cekdjpkzt0tt55/menthoplus.png?rlkey=eh6vz0bgm5ib35jijdn57klfx&st=18oe23n4&raw=1",
+             "mogul":"https://www.dropbox.com/scl/fi/3in57oe5w8gxo7hh2yj6v/mogul.png?rlkey=emc1z9fwsy67id63e73ftjfr9&st=uixvmrvp&raw=1",
+             "mantecol":"https://www.dropbox.com/scl/fi/ymm4nt80azw3qnpfl84z1/mantecol.png?rlkey=ux7umk8f3ytn24c7p1v0sjtd3&st=sy9ptwq5&raw=1",
+             "sugus":"https://www.dropbox.com/scl/fi/99brvs04az96aqpjed4dm/sugus.png?rlkey=wokcp2gdayjvyb1j2y959wnbn&st=taieoya3&raw=1",
+             "turron":"https://www.dropbox.com/scl/fi/cojrlttpwszap9bk4z6ui/turron.png?rlkey=aihl38n3mcumnv3bl2urz62a5&st=xo0ca4yh&raw=1"
+           },
+           "saludables":{
+             "cerealflow":"https://www.dropbox.com/scl/fi/z9n62vcgb675948w5f4yh/cerealflow.png?rlkey=dwpcvj9n8wxdmz5sl8hkv0mdi&st=j12u6gb6&raw=1",
+             "cerealmix":"https://www.dropbox.com/scl/fi/jy73us4dca4w97mc4qi4w/cerealmix.png?rlkey=8y10vd1ny1e0s6fbp9faws964&st=p7bl615b&raw=1",
+             "chocoarroz":"https://www.dropbox.com/scl/fi/w26n6deavudmlyh6wfe8d/chocoarroz.png?rlkey=dswt3vrp2ypzgobuqfw763tl5&st=w5xwfqsr&raw=1",
+             "chocobar":"https://www.dropbox.com/scl/fi/vxocfvm9tvoqtjfbin21p/chocobar.png?rlkey=e9y881u0708x10d4x5sp41hzy&st=4l3jnc1b&raw=1",
+             "coronitas":"https://www.dropbox.com/scl/fi/qq5xphf3h5s7sg4vb7vc6/coronitaverde.png?rlkey=fqq9o4wm432607lq0jbffza1b&st=v7ewwmii&raw=1",
+             "futigram":"https://www.dropbox.com/scl/fi/kk989n4jxx4qtf6t09ly6/futigrram.png?rlkey=kvm3tcffni9fks1lr6tsjn17l&st=mntsnffy&raw=1",
+             "hogareña":"https://www.dropbox.com/scl/fi/h98waizx10xxe6p11aaf6/hogare-a.png?rlkey=jt9n01mr2i2kozjsjdgv2s87g&st=n5wt1lmr&raw=1",
+             "integra":"https://www.dropbox.com/scl/fi/ohsupbujtbvy0obpiodkf/integra.png?rlkey=jfx3q70b8m3panso4focllyv1&st=d8ynbj1c&raw=1",
+             "integra2":"https://www.dropbox.com/scl/fi/z0km67amxsxo6hhguw36g/integra2.png?rlkey=rrbrmn4t4osk0gh7mxuj6vx48&st=365b1gaj&raw=1"
+           }
+         },
+         "cantidad_selecciones": "10",
          "servicio": {
             "srv1": "reposicion de maquina",
             "srv2": "servicio tecnico"
@@ -402,14 +559,93 @@
       "maqs4": {
          "marca": "Necta",
          "modelo": "Samba",
-         "dimension": "0x0x0 cm",
-         "peso": "0kg",
+         "dimension": "89x183x80 cm",
+         "peso": "280kg",
          "img": {
-            "img1": "https://www.dropbox.com/scl/fi/cpsav8twmsuyjggv3dtfq/frente_samba.png?rlkey=zgjqptoebo3gy183knmc7vrdm&st=z5oh6byw&raw=1",
-            "img2": "https://www.dropbox.com/scl/fi/cpsav8twmsuyjggv3dtfq/frente_samba.png?rlkey=zgjqptoebo3gy183knmc7vrdm&st=z5oh6byw&raw=1",
-            "img3": "https://www.dropbox.com/scl/fi/cpsav8twmsuyjggv3dtfq/frente_samba.png?rlkey=zgjqptoebo3gy183knmc7vrdm&st=z5oh6byw&raw=1"
+            "img1": "https://www.dropbox.com/scl/fi/cpsav8twmsuyjggv3dtfq/frente_samba.png?rlkey=zgjqptoebo3gy183knmc7vrdm&st=z5oh6byw&raw=1"
          },
-         "cantidad_snacks": "10",
+         "productos":{
+           "bebidas":{
+             "Coca Botella":"https://www.dropbox.com/scl/fi/opwcus0srdpnxf0eq5bg6/cocabotella.png?rlkey=iiv2y1ndqg8vcvvna5feg2jek&st=u3sip02x&raw=1",
+             "Sprite Botella":"https://www.dropbox.com/scl/fi/qip0ea66zc5e1gzq0l6cp/sprite.png?rlkey=hcifkvung5i6h77e2ci5sw2me&st=5p30uq5p&raw=1",
+             "Fanta Botella":"https://www.dropbox.com/scl/fi/qkhhavpcuqijw8p4smgde/fant.png?rlkey=45x7shaigimmp8k8n3tbxfpo1&st=ic795rlo&raw=1",
+             "Coca Lata":"https://www.dropbox.com/scl/fi/f0mag1dfsqqoo8iz8moyj/cocalata.png?rlkey=3vv07vmiski7ridffcbku1by4&st=qm6tiy2c&raw=1",
+             "Sprite Lata":"https://www.dropbox.com/scl/fi/huhm016hm1jv6kowiu286/spritelata.png?rlkey=zfs1y61x7w89i9ap3qfb8qten&st=40pr5z45&raw=1",
+             "Fanta Lata":"https://www.dropbox.com/scl/fi/dtldvdphbvbu23vhhktcn/fantalata.png?rlkey=d7ll0o3o976trc5e20almt4v4&st=b66rv5k3&raw=1",
+             "Agua Smart":"https://www.dropbox.com/scl/fi/axuuvgu90azfbmy8cmdeu/smart.png?rlkey=umywp5jeuq1h8mxfsapyp19u5&st=88cxw8er&raw=1",
+             "Agua Benedicto":"https://www.dropbox.com/scl/fi/pbhh92se5lr1fl7k5vkbs/benedicto.png?rlkey=0gzfucr7lqlmgq4dwcf3al4ia&st=kv6q39qw&raw=1",
+             "Agua Ko":"https://www.dropbox.com/scl/fi/wa1me0ml88qfufayy25l6/agua-ko.png?rlkey=7wylg85hpgkvi94ur1om9ug0i&st=qixoocec&raw=1",
+             "Aquarius":"https://www.dropbox.com/scl/fi/4vplu2641942gzenicfpr/aquarius.png?rlkey=owzdhq7drqer3ys9a3o25xzv1&st=1alru3d4&raw=1",
+             "Baggio":"https://www.dropbox.com/scl/fi/sd9tjdguibsg9iqd1vh2l/baggio.png?rlkey=w0yipmcrtrn94vm6z8sf5lvoo&st=4plijjv6&raw=1",
+             "Powerade":"https://www.dropbox.com/scl/fi/h30d8k8qyvhuw8ntuj2pi/powerade.png?rlkey=1ah6fv14vf534e7ttsfo87rv8&st=xtu1b59e&raw=1",
+             "Monster":"https://www.dropbox.com/scl/fi/nfx8yk3db4jpvze19v5vk/monster.png?rlkey=56tjrgxtzveyxv2yndtexoqyr&st=aba2suwf&raw=1",
+             "Sweep Azul":"https://www.dropbox.com/scl/fi/i08012rmtcn1zeyu1gbvc/sweepazul.png?rlkey=b2ku5uy92yjfvwhy9yalwizow&st=1c9tw22g&raw=1",
+             "Sweep Amarillo":"https://www.dropbox.com/scl/fi/tmiw07xnagqe6h8fgtk3j/sweeamarillo.png?rlkey=mb9oa8lconttb23orj49e8rne&st=nwidk1km&raw=1"
+           },
+           "alfajores":{
+             "block":"https://www.dropbox.com/scl/fi/bykd1vlh5zv5c4gnwkm07/block.png?rlkey=kbsyxbcctafb0m4gteq2lg4vr&st=1qa8b3bn&raw=1",
+             "bn":"https://www.dropbox.com/scl/fi/7cd4pe1zlqbxdy682pfdr/bn.png?rlkey=ueyobk3vbkmjve6uzvhpchisg&st=isspkxbh&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/otnmhownit7wfxt7dosux/bonobon.png?rlkey=0u7q0txi8jcggda4cv4fo6135&st=4yvflh3o&raw=1",
+             "chocotorta":"https://www.dropbox.com/scl/fi/xnxq1ucsnuv6yg8bjcxvs/chocotorta.png?rlkey=zf4y1y4nxpeal66yy1l7e58aa&st=qr5dps08&raw=1",
+             "fantoche":"https://www.dropbox.com/scl/fi/7lewm0msdwnuyrobf15nz/fantoche.png?rlkey=xniap4kkqw82wani6pz8s62xp&st=0qi9x7ah&raw=1",
+             "gula":"https://www.dropbox.com/scl/fi/ufdu7d7e934z8e4tkcqdv/gula.png?rlkey=l1s0hioju4a50zctl7tuudong&st=rd9p26lo&raw=1",
+             "jorgelin":"https://www.dropbox.com/scl/fi/glvz40jo2hljaz3rqxg1r/jorgelin.png?rlkey=joclxzsqf5f2k3rxs8y3glhlj&st=j5toodfx&raw=1",
+             "jorgito":"https://www.dropbox.com/scl/fi/aq9f0eq5u4i6rmhu30m3x/jorgito.png?rlkey=tbhlsb9sgxhk5wnsp277d8ur4&st=bsh47mk7&raw=1",
+             "aguila":"https://www.dropbox.com/scl/fi/gu21ncot99bq7h4wtxfu4/aguila.png?rlkey=dzleydshslud20qfziv8g7b2j&st=iah5g1qo&raw=1",
+             "rasta":"https://www.dropbox.com/scl/fi/f2124qpgu2s0z64yckeam/rasta.png?rlkey=uprv3b439kylcswlb7g5pdkk4&st=hmknqb1z&raw=1"
+           },
+           "galletas":{
+             "9deoro":"https://www.dropbox.com/scl/fi/ivwdelcmatu5c7v6wqhkk/9deorolight.png?rlkey=qn1i5gfphev88i5kkvjldlfcr&st=bebeg7ls&raw=1",
+             "9deoronegro":"https://www.dropbox.com/scl/fi/misfyp3d9uilvw5mb0kjo/9oronegra.png?rlkey=ftnobt35in5d7wjaoanzgjcpa&st=b02e0mfx&raw=1",
+             "celosas":"https://www.dropbox.com/scl/fi/v5v4co9aq0m8gauyrztst/celosas_.png?rlkey=kevlvpkm745icw802rlrg7jhr&st=gzclyb3t&raw=1",
+             "coronita":"https://www.dropbox.com/scl/fi/nfv1s157lfd49ckwp3t6m/coronita_.png?rlkey=zvr5suzk0ti26rb40l3875zxu&st=snwydst6&raw=1",
+             "criollita":"https://www.dropbox.com/scl/fi/idpljyzmimxjum6v59dgp/criollitas.png?rlkey=dyd9cy5gp8ewpitrskavnknbi&st=hi9r0krq&raw=1",
+             "donsatur":"https://www.dropbox.com/scl/fi/kq20g0nv37zij45o2o0s7/donsatur.png?rlkey=trf2kzxdphdo8txpwf2od5yq7&st=ptb7rz7i&raw=1",
+             "macuca":"https://www.dropbox.com/scl/fi/bm146ccwn7evf0p5jfbgp/macuca.png?rlkey=2uzoei8bithvcn5t7nyeq51kw&st=mqg2659v&raw=1",
+             "merengada":"https://www.dropbox.com/scl/fi/g56h7wvdppr7o6lvdbyd4/merengada.png?rlkey=52n4me59lifz7ym8mnm5i477a&st=1mykv873&raw=1",
+             "sonrisa":"https://www.dropbox.com/scl/fi/x3p65mijm1m4j9vi4luq6/sonrisas.png?rlkey=vscskvkmwbzmcvbn87tws5rpe&st=dmgmcb0w&raw=1",
+             "rumba":"https://www.dropbox.com/scl/fi/pgwdbbqs2z23wdcmcoc0p/rumba.png?rlkey=g6pb5oyfgnf3f4jzma65auwut&st=da7vo3e3&raw=1",
+             "opera":"https://www.dropbox.com/scl/fi/22cl7njf8wu0eq9z8ecsx/opera.png?rlkey=th04r2wgm2l4pc8b8q7wz78uk&st=xjoyacoc&raw=1",
+             "pepa":"https://www.dropbox.com/scl/fi/ik96klbrthntpp3a6a2r1/pepa.png?rlkey=qyb1osuz54dxvwld9x7iro00e&st=2u566hxt&raw=1"
+           },
+           "chocolates":{
+             "block":"https://www.dropbox.com/scl/fi/6vuhd2odpkmpyro38fgtc/block.png?rlkey=0r7qws85ubhnbh3rhmgy6oca1&st=7qb0oryo&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/a3dbzbcknjh6yszrdqjxd/bonobon-barra.png?rlkey=zprkjq0mq7ybleavlyc3dm4eo&st=x14naajz&raw=1",
+             "cofler":"https://www.dropbox.com/scl/fi/pecpuql7v9wsxh5zl86dz/cofler.png?rlkey=lozttiqiit46vnjnc7jknc109&st=ytb195iq&raw=1",
+             "hamlet":"https://www.dropbox.com/scl/fi/kegy8yc8ijmcoe8hzxvd8/hamlet.png?rlkey=a74isgnex1s76dxykcjjrb9x1&st=r12157b2&raw=1",
+             "mecano":"https://www.dropbox.com/scl/fi/111rs56fmcg5nqc1051q9/mecano.png?rlkey=aoksg6zl5hhzvidyfg7ywk6f1&st=l6t5h5er&raw=1",
+             "nugaton":"https://www.dropbox.com/scl/fi/fe7afjyasj0iu1qdst8b5/nugaton.png?rlkey=irjb6tmvwniovxcej3i7n5h9k&st=rbvbvw1r&raw=1",
+             "rocklets":"https://www.dropbox.com/scl/fi/gluoel8ccmvc6flerkidc/rocklets.png?rlkey=d3nkn3itlh6v5rab1c93n331f&st=3wwxx8rd&raw=1"
+           },
+           "salado":{
+             "kesitas":"https://www.dropbox.com/scl/fi/uxkqvtv5tbeati9jdhc8d/kesitas.png?rlkey=cyckyxaj9t1f4cvlw17u311jp&st=o5cjcb4f&raw=1",
+             "rex":"https://www.dropbox.com/scl/fi/vng4295iy1srqqf00jy2y/rex.png?rlkey=7ieoknuw0ixkgjdin80nyy2xy&st=d8gt5d0e&raw=1",
+             "saladix":"https://www.dropbox.com/scl/fi/q5axeqwvpoiv2dcy5bz38/saladix.png?rlkey=knkb88q20xwfzwlcizgzvutmf&st=u6599b7q&raw=1",
+             "talitas":"https://www.dropbox.com/scl/fi/h8r7qb5u48ybazd769w6v/talitas.png?rlkey=umc5ve3jgi748odveiauwyruy&st=g39hpeyp&raw=1",
+             "takis":"https://www.dropbox.com/scl/fi/j2kjk2ejzdaiqsrw9rlpp/takis.png?rlkey=s2xtcm56twtj6t0zauvec1h32&st=kknh8bl9&raw=1",
+             "traviata":"https://www.dropbox.com/scl/fi/rh0t9k3hdirli1e0ckbxt/traviata.png?rlkey=ntrieojvkr0nehexmbzow3fzz&st=gzcnq540&raw=1"
+           },
+           "varios":{
+             "beldent":"https://www.dropbox.com/scl/fi/96cq59r8g3wflcrv2lt3j/beldent.png?rlkey=yhapa39nu5g6uds3h8zgq5j56&st=hrsvgi06&raw=1",
+             "menthoplus":"https://www.dropbox.com/scl/fi/60k6c20cekdjpkzt0tt55/menthoplus.png?rlkey=eh6vz0bgm5ib35jijdn57klfx&st=18oe23n4&raw=1",
+             "mogul":"https://www.dropbox.com/scl/fi/3in57oe5w8gxo7hh2yj6v/mogul.png?rlkey=emc1z9fwsy67id63e73ftjfr9&st=uixvmrvp&raw=1",
+             "mantecol":"https://www.dropbox.com/scl/fi/ymm4nt80azw3qnpfl84z1/mantecol.png?rlkey=ux7umk8f3ytn24c7p1v0sjtd3&st=sy9ptwq5&raw=1",
+             "sugus":"https://www.dropbox.com/scl/fi/99brvs04az96aqpjed4dm/sugus.png?rlkey=wokcp2gdayjvyb1j2y959wnbn&st=taieoya3&raw=1",
+             "turron":"https://www.dropbox.com/scl/fi/cojrlttpwszap9bk4z6ui/turron.png?rlkey=aihl38n3mcumnv3bl2urz62a5&st=xo0ca4yh&raw=1"
+           },
+           "saludables":{
+             "cerealflow":"https://www.dropbox.com/scl/fi/z9n62vcgb675948w5f4yh/cerealflow.png?rlkey=dwpcvj9n8wxdmz5sl8hkv0mdi&st=j12u6gb6&raw=1",
+             "cerealmix":"https://www.dropbox.com/scl/fi/jy73us4dca4w97mc4qi4w/cerealmix.png?rlkey=8y10vd1ny1e0s6fbp9faws964&st=p7bl615b&raw=1",
+             "chocoarroz":"https://www.dropbox.com/scl/fi/w26n6deavudmlyh6wfe8d/chocoarroz.png?rlkey=dswt3vrp2ypzgobuqfw763tl5&st=w5xwfqsr&raw=1",
+             "chocobar":"https://www.dropbox.com/scl/fi/vxocfvm9tvoqtjfbin21p/chocobar.png?rlkey=e9y881u0708x10d4x5sp41hzy&st=4l3jnc1b&raw=1",
+             "coronitas":"https://www.dropbox.com/scl/fi/qq5xphf3h5s7sg4vb7vc6/coronitaverde.png?rlkey=fqq9o4wm432607lq0jbffza1b&st=v7ewwmii&raw=1",
+             "futigram":"https://www.dropbox.com/scl/fi/kk989n4jxx4qtf6t09ly6/futigrram.png?rlkey=kvm3tcffni9fks1lr6tsjn17l&st=mntsnffy&raw=1",
+             "hogareña":"https://www.dropbox.com/scl/fi/h98waizx10xxe6p11aaf6/hogare-a.png?rlkey=jt9n01mr2i2kozjsjdgv2s87g&st=n5wt1lmr&raw=1",
+             "integra":"https://www.dropbox.com/scl/fi/ohsupbujtbvy0obpiodkf/integra.png?rlkey=jfx3q70b8m3panso4focllyv1&st=d8ynbj1c&raw=1",
+             "integra2":"https://www.dropbox.com/scl/fi/z0km67amxsxo6hhguw36g/integra2.png?rlkey=rrbrmn4t4osk0gh7mxuj6vx48&st=365b1gaj&raw=1"
+           }
+         },
+         "cantidad_selecciones": "10",
          "servicio": {
             "srv1": "reposicion de maquina",
             "srv2": "servicio tecnico"
@@ -418,14 +654,31 @@
       "maqs5": {
          "marca": "Coca-Cola",
          "modelo": "Coca",
-         "dimension": "0x0x0 cm",
-         "peso": "0kg",
+         "dimension": "119x182x86 cm",
+         "peso": "325kg",
          "img": {
-            "img1": "img",
-            "img2": "img2",
-            "img3": "img3"
+            "img1": "img"
          },
-         "cantidad_snacks": "10",
+         "productos":{
+           "bebidas":{
+             "Coca Botella":"https://www.dropbox.com/scl/fi/opwcus0srdpnxf0eq5bg6/cocabotella.png?rlkey=iiv2y1ndqg8vcvvna5feg2jek&st=u3sip02x&raw=1",
+             "Sprite Botella":"https://www.dropbox.com/scl/fi/qip0ea66zc5e1gzq0l6cp/sprite.png?rlkey=hcifkvung5i6h77e2ci5sw2me&st=5p30uq5p&raw=1",
+             "Fanta Botella":"https://www.dropbox.com/scl/fi/qkhhavpcuqijw8p4smgde/fant.png?rlkey=45x7shaigimmp8k8n3tbxfpo1&st=ic795rlo&raw=1",
+             "Coca Lata":"https://www.dropbox.com/scl/fi/f0mag1dfsqqoo8iz8moyj/cocalata.png?rlkey=3vv07vmiski7ridffcbku1by4&st=qm6tiy2c&raw=1",
+             "Sprite Lata":"https://www.dropbox.com/scl/fi/huhm016hm1jv6kowiu286/spritelata.png?rlkey=zfs1y61x7w89i9ap3qfb8qten&st=40pr5z45&raw=1",
+             "Fanta Lata":"https://www.dropbox.com/scl/fi/dtldvdphbvbu23vhhktcn/fantalata.png?rlkey=d7ll0o3o976trc5e20almt4v4&st=b66rv5k3&raw=1",
+             "Agua Smart":"https://www.dropbox.com/scl/fi/axuuvgu90azfbmy8cmdeu/smart.png?rlkey=umywp5jeuq1h8mxfsapyp19u5&st=88cxw8er&raw=1",
+             "Agua Benedicto":"https://www.dropbox.com/scl/fi/pbhh92se5lr1fl7k5vkbs/benedicto.png?rlkey=0gzfucr7lqlmgq4dwcf3al4ia&st=kv6q39qw&raw=1",
+             "Agua Ko":"https://www.dropbox.com/scl/fi/wa1me0ml88qfufayy25l6/agua-ko.png?rlkey=7wylg85hpgkvi94ur1om9ug0i&st=qixoocec&raw=1",
+             "Aquarius":"https://www.dropbox.com/scl/fi/4vplu2641942gzenicfpr/aquarius.png?rlkey=owzdhq7drqer3ys9a3o25xzv1&st=1alru3d4&raw=1",
+             "Baggio":"https://www.dropbox.com/scl/fi/sd9tjdguibsg9iqd1vh2l/baggio.png?rlkey=w0yipmcrtrn94vm6z8sf5lvoo&st=4plijjv6&raw=1",
+             "Powerade":"https://www.dropbox.com/scl/fi/h30d8k8qyvhuw8ntuj2pi/powerade.png?rlkey=1ah6fv14vf534e7ttsfo87rv8&st=xtu1b59e&raw=1",
+             "Monster":"https://www.dropbox.com/scl/fi/nfx8yk3db4jpvze19v5vk/monster.png?rlkey=56tjrgxtzveyxv2yndtexoqyr&st=aba2suwf&raw=1",
+             "Sweep Azul":"https://www.dropbox.com/scl/fi/i08012rmtcn1zeyu1gbvc/sweepazul.png?rlkey=b2ku5uy92yjfvwhy9yalwizow&st=1c9tw22g&raw=1",
+             "Sweep Amarillo":"https://www.dropbox.com/scl/fi/tmiw07xnagqe6h8fgtk3j/sweeamarillo.png?rlkey=mb9oa8lconttb23orj49e8rne&st=nwidk1km&raw=1"
+           }
+         },
+         "cantidad_selecciones": "10",
          "servicio": {
             "srv1": "reposicion de maquina",
             "srv2": "servicio tecnico"
@@ -434,14 +687,93 @@
       "maqs6": {
          "marca": "Necta",
          "modelo": "Snakky",
-         "dimension": "0x0x0 cm",
-         "peso": "0kg",
+         "dimension": "70x170x85 cm",
+         "peso": "190kg",
          "img": {
-            "img1": "https://www.dropbox.com/scl/fi/lsi1ckp9in5qtb7j8wc9t/frente_snacky.png?rlkey=388r4jqwsheeg3fnsj0tkx25i&st=lsgc3vk3&raw=1",
-            "img2": "https://www.dropbox.com/scl/fi/lsi1ckp9in5qtb7j8wc9t/frente_snacky.png?rlkey=388r4jqwsheeg3fnsj0tkx25i&st=lsgc3vk3&raw=1",
-            "img3": "https://www.dropbox.com/scl/fi/lsi1ckp9in5qtb7j8wc9t/frente_snacky.png?rlkey=388r4jqwsheeg3fnsj0tkx25i&st=lsgc3vk3&raw=1"
+            "img1": "https://www.dropbox.com/scl/fi/lsi1ckp9in5qtb7j8wc9t/frente_snacky.png?rlkey=388r4jqwsheeg3fnsj0tkx25i&st=lsgc3vk3&raw=1"
          },
-         "cantidad_snacks": "10",
+         "productos":{
+           "bebidas":{
+             "Coca Botella":"https://www.dropbox.com/scl/fi/opwcus0srdpnxf0eq5bg6/cocabotella.png?rlkey=iiv2y1ndqg8vcvvna5feg2jek&st=u3sip02x&raw=1",
+             "Sprite Botella":"https://www.dropbox.com/scl/fi/qip0ea66zc5e1gzq0l6cp/sprite.png?rlkey=hcifkvung5i6h77e2ci5sw2me&st=5p30uq5p&raw=1",
+             "Fanta Botella":"https://www.dropbox.com/scl/fi/qkhhavpcuqijw8p4smgde/fant.png?rlkey=45x7shaigimmp8k8n3tbxfpo1&st=ic795rlo&raw=1",
+             "Coca Lata":"https://www.dropbox.com/scl/fi/f0mag1dfsqqoo8iz8moyj/cocalata.png?rlkey=3vv07vmiski7ridffcbku1by4&st=qm6tiy2c&raw=1",
+             "Sprite Lata":"https://www.dropbox.com/scl/fi/huhm016hm1jv6kowiu286/spritelata.png?rlkey=zfs1y61x7w89i9ap3qfb8qten&st=40pr5z45&raw=1",
+             "Fanta Lata":"https://www.dropbox.com/scl/fi/dtldvdphbvbu23vhhktcn/fantalata.png?rlkey=d7ll0o3o976trc5e20almt4v4&st=b66rv5k3&raw=1",
+             "Agua Smart":"https://www.dropbox.com/scl/fi/axuuvgu90azfbmy8cmdeu/smart.png?rlkey=umywp5jeuq1h8mxfsapyp19u5&st=88cxw8er&raw=1",
+             "Agua Benedicto":"https://www.dropbox.com/scl/fi/pbhh92se5lr1fl7k5vkbs/benedicto.png?rlkey=0gzfucr7lqlmgq4dwcf3al4ia&st=kv6q39qw&raw=1",
+             "Agua Ko":"https://www.dropbox.com/scl/fi/wa1me0ml88qfufayy25l6/agua-ko.png?rlkey=7wylg85hpgkvi94ur1om9ug0i&st=qixoocec&raw=1",
+             "Aquarius":"https://www.dropbox.com/scl/fi/4vplu2641942gzenicfpr/aquarius.png?rlkey=owzdhq7drqer3ys9a3o25xzv1&st=1alru3d4&raw=1",
+             "Baggio":"https://www.dropbox.com/scl/fi/sd9tjdguibsg9iqd1vh2l/baggio.png?rlkey=w0yipmcrtrn94vm6z8sf5lvoo&st=4plijjv6&raw=1",
+             "Powerade":"https://www.dropbox.com/scl/fi/h30d8k8qyvhuw8ntuj2pi/powerade.png?rlkey=1ah6fv14vf534e7ttsfo87rv8&st=xtu1b59e&raw=1",
+             "Monster":"https://www.dropbox.com/scl/fi/nfx8yk3db4jpvze19v5vk/monster.png?rlkey=56tjrgxtzveyxv2yndtexoqyr&st=aba2suwf&raw=1",
+             "Sweep Azul":"https://www.dropbox.com/scl/fi/i08012rmtcn1zeyu1gbvc/sweepazul.png?rlkey=b2ku5uy92yjfvwhy9yalwizow&st=1c9tw22g&raw=1",
+             "Sweep Amarillo":"https://www.dropbox.com/scl/fi/tmiw07xnagqe6h8fgtk3j/sweeamarillo.png?rlkey=mb9oa8lconttb23orj49e8rne&st=nwidk1km&raw=1"
+           },
+           "alfajores":{
+             "block":"https://www.dropbox.com/scl/fi/bykd1vlh5zv5c4gnwkm07/block.png?rlkey=kbsyxbcctafb0m4gteq2lg4vr&st=1qa8b3bn&raw=1",
+             "bn":"https://www.dropbox.com/scl/fi/7cd4pe1zlqbxdy682pfdr/bn.png?rlkey=ueyobk3vbkmjve6uzvhpchisg&st=isspkxbh&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/otnmhownit7wfxt7dosux/bonobon.png?rlkey=0u7q0txi8jcggda4cv4fo6135&st=4yvflh3o&raw=1",
+             "chocotorta":"https://www.dropbox.com/scl/fi/xnxq1ucsnuv6yg8bjcxvs/chocotorta.png?rlkey=zf4y1y4nxpeal66yy1l7e58aa&st=qr5dps08&raw=1",
+             "fantoche":"https://www.dropbox.com/scl/fi/7lewm0msdwnuyrobf15nz/fantoche.png?rlkey=xniap4kkqw82wani6pz8s62xp&st=0qi9x7ah&raw=1",
+             "gula":"https://www.dropbox.com/scl/fi/ufdu7d7e934z8e4tkcqdv/gula.png?rlkey=l1s0hioju4a50zctl7tuudong&st=rd9p26lo&raw=1",
+             "jorgelin":"https://www.dropbox.com/scl/fi/glvz40jo2hljaz3rqxg1r/jorgelin.png?rlkey=joclxzsqf5f2k3rxs8y3glhlj&st=j5toodfx&raw=1",
+             "jorgito":"https://www.dropbox.com/scl/fi/aq9f0eq5u4i6rmhu30m3x/jorgito.png?rlkey=tbhlsb9sgxhk5wnsp277d8ur4&st=bsh47mk7&raw=1",
+             "aguila":"https://www.dropbox.com/scl/fi/gu21ncot99bq7h4wtxfu4/aguila.png?rlkey=dzleydshslud20qfziv8g7b2j&st=iah5g1qo&raw=1",
+             "rasta":"https://www.dropbox.com/scl/fi/f2124qpgu2s0z64yckeam/rasta.png?rlkey=uprv3b439kylcswlb7g5pdkk4&st=hmknqb1z&raw=1"
+           },
+           "galletas":{
+             "9deoro":"https://www.dropbox.com/scl/fi/ivwdelcmatu5c7v6wqhkk/9deorolight.png?rlkey=qn1i5gfphev88i5kkvjldlfcr&st=bebeg7ls&raw=1",
+             "9deoronegro":"https://www.dropbox.com/scl/fi/misfyp3d9uilvw5mb0kjo/9oronegra.png?rlkey=ftnobt35in5d7wjaoanzgjcpa&st=b02e0mfx&raw=1",
+             "celosas":"https://www.dropbox.com/scl/fi/v5v4co9aq0m8gauyrztst/celosas_.png?rlkey=kevlvpkm745icw802rlrg7jhr&st=gzclyb3t&raw=1",
+             "coronita":"https://www.dropbox.com/scl/fi/nfv1s157lfd49ckwp3t6m/coronita_.png?rlkey=zvr5suzk0ti26rb40l3875zxu&st=snwydst6&raw=1",
+             "criollita":"https://www.dropbox.com/scl/fi/idpljyzmimxjum6v59dgp/criollitas.png?rlkey=dyd9cy5gp8ewpitrskavnknbi&st=hi9r0krq&raw=1",
+             "donsatur":"https://www.dropbox.com/scl/fi/kq20g0nv37zij45o2o0s7/donsatur.png?rlkey=trf2kzxdphdo8txpwf2od5yq7&st=ptb7rz7i&raw=1",
+             "macuca":"https://www.dropbox.com/scl/fi/bm146ccwn7evf0p5jfbgp/macuca.png?rlkey=2uzoei8bithvcn5t7nyeq51kw&st=mqg2659v&raw=1",
+             "merengada":"https://www.dropbox.com/scl/fi/g56h7wvdppr7o6lvdbyd4/merengada.png?rlkey=52n4me59lifz7ym8mnm5i477a&st=1mykv873&raw=1",
+             "sonrisa":"https://www.dropbox.com/scl/fi/x3p65mijm1m4j9vi4luq6/sonrisas.png?rlkey=vscskvkmwbzmcvbn87tws5rpe&st=dmgmcb0w&raw=1",
+             "rumba":"https://www.dropbox.com/scl/fi/pgwdbbqs2z23wdcmcoc0p/rumba.png?rlkey=g6pb5oyfgnf3f4jzma65auwut&st=da7vo3e3&raw=1",
+             "opera":"https://www.dropbox.com/scl/fi/22cl7njf8wu0eq9z8ecsx/opera.png?rlkey=th04r2wgm2l4pc8b8q7wz78uk&st=xjoyacoc&raw=1",
+             "pepa":"https://www.dropbox.com/scl/fi/ik96klbrthntpp3a6a2r1/pepa.png?rlkey=qyb1osuz54dxvwld9x7iro00e&st=2u566hxt&raw=1"
+           },
+           "chocolates":{
+             "block":"https://www.dropbox.com/scl/fi/6vuhd2odpkmpyro38fgtc/block.png?rlkey=0r7qws85ubhnbh3rhmgy6oca1&st=7qb0oryo&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/a3dbzbcknjh6yszrdqjxd/bonobon-barra.png?rlkey=zprkjq0mq7ybleavlyc3dm4eo&st=x14naajz&raw=1",
+             "cofler":"https://www.dropbox.com/scl/fi/pecpuql7v9wsxh5zl86dz/cofler.png?rlkey=lozttiqiit46vnjnc7jknc109&st=ytb195iq&raw=1",
+             "hamlet":"https://www.dropbox.com/scl/fi/kegy8yc8ijmcoe8hzxvd8/hamlet.png?rlkey=a74isgnex1s76dxykcjjrb9x1&st=r12157b2&raw=1",
+             "mecano":"https://www.dropbox.com/scl/fi/111rs56fmcg5nqc1051q9/mecano.png?rlkey=aoksg6zl5hhzvidyfg7ywk6f1&st=l6t5h5er&raw=1",
+             "nugaton":"https://www.dropbox.com/scl/fi/fe7afjyasj0iu1qdst8b5/nugaton.png?rlkey=irjb6tmvwniovxcej3i7n5h9k&st=rbvbvw1r&raw=1",
+             "rocklets":"https://www.dropbox.com/scl/fi/gluoel8ccmvc6flerkidc/rocklets.png?rlkey=d3nkn3itlh6v5rab1c93n331f&st=3wwxx8rd&raw=1"
+           },
+           "salado":{
+             "kesitas":"https://www.dropbox.com/scl/fi/uxkqvtv5tbeati9jdhc8d/kesitas.png?rlkey=cyckyxaj9t1f4cvlw17u311jp&st=o5cjcb4f&raw=1",
+             "rex":"https://www.dropbox.com/scl/fi/vng4295iy1srqqf00jy2y/rex.png?rlkey=7ieoknuw0ixkgjdin80nyy2xy&st=d8gt5d0e&raw=1",
+             "saladix":"https://www.dropbox.com/scl/fi/q5axeqwvpoiv2dcy5bz38/saladix.png?rlkey=knkb88q20xwfzwlcizgzvutmf&st=u6599b7q&raw=1",
+             "talitas":"https://www.dropbox.com/scl/fi/h8r7qb5u48ybazd769w6v/talitas.png?rlkey=umc5ve3jgi748odveiauwyruy&st=g39hpeyp&raw=1",
+             "takis":"https://www.dropbox.com/scl/fi/j2kjk2ejzdaiqsrw9rlpp/takis.png?rlkey=s2xtcm56twtj6t0zauvec1h32&st=kknh8bl9&raw=1",
+             "traviata":"https://www.dropbox.com/scl/fi/rh0t9k3hdirli1e0ckbxt/traviata.png?rlkey=ntrieojvkr0nehexmbzow3fzz&st=gzcnq540&raw=1"
+           },
+           "varios":{
+             "beldent":"https://www.dropbox.com/scl/fi/96cq59r8g3wflcrv2lt3j/beldent.png?rlkey=yhapa39nu5g6uds3h8zgq5j56&st=hrsvgi06&raw=1",
+             "menthoplus":"https://www.dropbox.com/scl/fi/60k6c20cekdjpkzt0tt55/menthoplus.png?rlkey=eh6vz0bgm5ib35jijdn57klfx&st=18oe23n4&raw=1",
+             "mogul":"https://www.dropbox.com/scl/fi/3in57oe5w8gxo7hh2yj6v/mogul.png?rlkey=emc1z9fwsy67id63e73ftjfr9&st=uixvmrvp&raw=1",
+             "mantecol":"https://www.dropbox.com/scl/fi/ymm4nt80azw3qnpfl84z1/mantecol.png?rlkey=ux7umk8f3ytn24c7p1v0sjtd3&st=sy9ptwq5&raw=1",
+             "sugus":"https://www.dropbox.com/scl/fi/99brvs04az96aqpjed4dm/sugus.png?rlkey=wokcp2gdayjvyb1j2y959wnbn&st=taieoya3&raw=1",
+             "turron":"https://www.dropbox.com/scl/fi/cojrlttpwszap9bk4z6ui/turron.png?rlkey=aihl38n3mcumnv3bl2urz62a5&st=xo0ca4yh&raw=1"
+           },
+           "saludables":{
+             "cerealflow":"https://www.dropbox.com/scl/fi/z9n62vcgb675948w5f4yh/cerealflow.png?rlkey=dwpcvj9n8wxdmz5sl8hkv0mdi&st=j12u6gb6&raw=1",
+             "cerealmix":"https://www.dropbox.com/scl/fi/jy73us4dca4w97mc4qi4w/cerealmix.png?rlkey=8y10vd1ny1e0s6fbp9faws964&st=p7bl615b&raw=1",
+             "chocoarroz":"https://www.dropbox.com/scl/fi/w26n6deavudmlyh6wfe8d/chocoarroz.png?rlkey=dswt3vrp2ypzgobuqfw763tl5&st=w5xwfqsr&raw=1",
+             "chocobar":"https://www.dropbox.com/scl/fi/vxocfvm9tvoqtjfbin21p/chocobar.png?rlkey=e9y881u0708x10d4x5sp41hzy&st=4l3jnc1b&raw=1",
+             "coronitas":"https://www.dropbox.com/scl/fi/qq5xphf3h5s7sg4vb7vc6/coronitaverde.png?rlkey=fqq9o4wm432607lq0jbffza1b&st=v7ewwmii&raw=1",
+             "futigram":"https://www.dropbox.com/scl/fi/kk989n4jxx4qtf6t09ly6/futigrram.png?rlkey=kvm3tcffni9fks1lr6tsjn17l&st=mntsnffy&raw=1",
+             "hogareña":"https://www.dropbox.com/scl/fi/h98waizx10xxe6p11aaf6/hogare-a.png?rlkey=jt9n01mr2i2kozjsjdgv2s87g&st=n5wt1lmr&raw=1",
+             "integra":"https://www.dropbox.com/scl/fi/ohsupbujtbvy0obpiodkf/integra.png?rlkey=jfx3q70b8m3panso4focllyv1&st=d8ynbj1c&raw=1",
+             "integra2":"https://www.dropbox.com/scl/fi/z0km67amxsxo6hhguw36g/integra2.png?rlkey=rrbrmn4t4osk0gh7mxuj6vx48&st=365b1gaj&raw=1"
+           }
+         },
+         "cantidad_selecciones": "10",
          "servicio": {
             "srv1": "reposicion de maquina",
             "srv2": "servicio tecnico"
@@ -450,14 +782,93 @@
       "maqs7": {
          "marca": "Saeco",
          "modelo": "Aliseo",
-         "dimension": "0x0x0 cm",
-         "peso": "0kg",
+         "dimension": "91x183x90 cm",
+         "peso": "315kg",
          "img": {
-            "img1": "https://www.dropbox.com/scl/fi/vozkyohidg6ej1fvqjyrj/frente_aliseo.png?rlkey=ygjcs5mhuwhqtz7559aizyc8i&st=4nrila8t&raw=1",
-            "img2": "https://www.dropbox.com/scl/fi/vozkyohidg6ej1fvqjyrj/frente_aliseo.png?rlkey=ygjcs5mhuwhqtz7559aizyc8i&st=4nrila8t&raw=1",
-            "img3": "https://www.dropbox.com/scl/fi/vozkyohidg6ej1fvqjyrj/frente_aliseo.png?rlkey=ygjcs5mhuwhqtz7559aizyc8i&st=4nrila8t&raw=1"
+            "img1": "https://www.dropbox.com/scl/fi/vozkyohidg6ej1fvqjyrj/frente_aliseo.png?rlkey=ygjcs5mhuwhqtz7559aizyc8i&st=4nrila8t&raw=1"
          },
-         "cantidad_snacks": "10",
+         "productos":{
+           "bebidas":{
+             "Coca Botella":"https://www.dropbox.com/scl/fi/opwcus0srdpnxf0eq5bg6/cocabotella.png?rlkey=iiv2y1ndqg8vcvvna5feg2jek&st=u3sip02x&raw=1",
+             "Sprite Botella":"https://www.dropbox.com/scl/fi/qip0ea66zc5e1gzq0l6cp/sprite.png?rlkey=hcifkvung5i6h77e2ci5sw2me&st=5p30uq5p&raw=1",
+             "Fanta Botella":"https://www.dropbox.com/scl/fi/qkhhavpcuqijw8p4smgde/fant.png?rlkey=45x7shaigimmp8k8n3tbxfpo1&st=ic795rlo&raw=1",
+             "Coca Lata":"https://www.dropbox.com/scl/fi/f0mag1dfsqqoo8iz8moyj/cocalata.png?rlkey=3vv07vmiski7ridffcbku1by4&st=qm6tiy2c&raw=1",
+             "Sprite Lata":"https://www.dropbox.com/scl/fi/huhm016hm1jv6kowiu286/spritelata.png?rlkey=zfs1y61x7w89i9ap3qfb8qten&st=40pr5z45&raw=1",
+             "Fanta Lata":"https://www.dropbox.com/scl/fi/dtldvdphbvbu23vhhktcn/fantalata.png?rlkey=d7ll0o3o976trc5e20almt4v4&st=b66rv5k3&raw=1",
+             "Agua Smart":"https://www.dropbox.com/scl/fi/axuuvgu90azfbmy8cmdeu/smart.png?rlkey=umywp5jeuq1h8mxfsapyp19u5&st=88cxw8er&raw=1",
+             "Agua Benedicto":"https://www.dropbox.com/scl/fi/pbhh92se5lr1fl7k5vkbs/benedicto.png?rlkey=0gzfucr7lqlmgq4dwcf3al4ia&st=kv6q39qw&raw=1",
+             "Agua Ko":"https://www.dropbox.com/scl/fi/wa1me0ml88qfufayy25l6/agua-ko.png?rlkey=7wylg85hpgkvi94ur1om9ug0i&st=qixoocec&raw=1",
+             "Aquarius":"https://www.dropbox.com/scl/fi/4vplu2641942gzenicfpr/aquarius.png?rlkey=owzdhq7drqer3ys9a3o25xzv1&st=1alru3d4&raw=1",
+             "Baggio":"https://www.dropbox.com/scl/fi/sd9tjdguibsg9iqd1vh2l/baggio.png?rlkey=w0yipmcrtrn94vm6z8sf5lvoo&st=4plijjv6&raw=1",
+             "Powerade":"https://www.dropbox.com/scl/fi/h30d8k8qyvhuw8ntuj2pi/powerade.png?rlkey=1ah6fv14vf534e7ttsfo87rv8&st=xtu1b59e&raw=1",
+             "Monster":"https://www.dropbox.com/scl/fi/nfx8yk3db4jpvze19v5vk/monster.png?rlkey=56tjrgxtzveyxv2yndtexoqyr&st=aba2suwf&raw=1",
+             "Sweep Azul":"https://www.dropbox.com/scl/fi/i08012rmtcn1zeyu1gbvc/sweepazul.png?rlkey=b2ku5uy92yjfvwhy9yalwizow&st=1c9tw22g&raw=1",
+             "Sweep Amarillo":"https://www.dropbox.com/scl/fi/tmiw07xnagqe6h8fgtk3j/sweeamarillo.png?rlkey=mb9oa8lconttb23orj49e8rne&st=nwidk1km&raw=1"
+           },
+           "alfajores":{
+             "block":"https://www.dropbox.com/scl/fi/bykd1vlh5zv5c4gnwkm07/block.png?rlkey=kbsyxbcctafb0m4gteq2lg4vr&st=1qa8b3bn&raw=1",
+             "bn":"https://www.dropbox.com/scl/fi/7cd4pe1zlqbxdy682pfdr/bn.png?rlkey=ueyobk3vbkmjve6uzvhpchisg&st=isspkxbh&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/otnmhownit7wfxt7dosux/bonobon.png?rlkey=0u7q0txi8jcggda4cv4fo6135&st=4yvflh3o&raw=1",
+             "chocotorta":"https://www.dropbox.com/scl/fi/xnxq1ucsnuv6yg8bjcxvs/chocotorta.png?rlkey=zf4y1y4nxpeal66yy1l7e58aa&st=qr5dps08&raw=1",
+             "fantoche":"https://www.dropbox.com/scl/fi/7lewm0msdwnuyrobf15nz/fantoche.png?rlkey=xniap4kkqw82wani6pz8s62xp&st=0qi9x7ah&raw=1",
+             "gula":"https://www.dropbox.com/scl/fi/ufdu7d7e934z8e4tkcqdv/gula.png?rlkey=l1s0hioju4a50zctl7tuudong&st=rd9p26lo&raw=1",
+             "jorgelin":"https://www.dropbox.com/scl/fi/glvz40jo2hljaz3rqxg1r/jorgelin.png?rlkey=joclxzsqf5f2k3rxs8y3glhlj&st=j5toodfx&raw=1",
+             "jorgito":"https://www.dropbox.com/scl/fi/aq9f0eq5u4i6rmhu30m3x/jorgito.png?rlkey=tbhlsb9sgxhk5wnsp277d8ur4&st=bsh47mk7&raw=1",
+             "aguila":"https://www.dropbox.com/scl/fi/gu21ncot99bq7h4wtxfu4/aguila.png?rlkey=dzleydshslud20qfziv8g7b2j&st=iah5g1qo&raw=1",
+             "rasta":"https://www.dropbox.com/scl/fi/f2124qpgu2s0z64yckeam/rasta.png?rlkey=uprv3b439kylcswlb7g5pdkk4&st=hmknqb1z&raw=1"
+           },
+           "galletas":{
+             "9deoro":"https://www.dropbox.com/scl/fi/ivwdelcmatu5c7v6wqhkk/9deorolight.png?rlkey=qn1i5gfphev88i5kkvjldlfcr&st=bebeg7ls&raw=1",
+             "9deoronegro":"https://www.dropbox.com/scl/fi/misfyp3d9uilvw5mb0kjo/9oronegra.png?rlkey=ftnobt35in5d7wjaoanzgjcpa&st=b02e0mfx&raw=1",
+             "celosas":"https://www.dropbox.com/scl/fi/v5v4co9aq0m8gauyrztst/celosas_.png?rlkey=kevlvpkm745icw802rlrg7jhr&st=gzclyb3t&raw=1",
+             "coronita":"https://www.dropbox.com/scl/fi/nfv1s157lfd49ckwp3t6m/coronita_.png?rlkey=zvr5suzk0ti26rb40l3875zxu&st=snwydst6&raw=1",
+             "criollita":"https://www.dropbox.com/scl/fi/idpljyzmimxjum6v59dgp/criollitas.png?rlkey=dyd9cy5gp8ewpitrskavnknbi&st=hi9r0krq&raw=1",
+             "donsatur":"https://www.dropbox.com/scl/fi/kq20g0nv37zij45o2o0s7/donsatur.png?rlkey=trf2kzxdphdo8txpwf2od5yq7&st=ptb7rz7i&raw=1",
+             "macuca":"https://www.dropbox.com/scl/fi/bm146ccwn7evf0p5jfbgp/macuca.png?rlkey=2uzoei8bithvcn5t7nyeq51kw&st=mqg2659v&raw=1",
+             "merengada":"https://www.dropbox.com/scl/fi/g56h7wvdppr7o6lvdbyd4/merengada.png?rlkey=52n4me59lifz7ym8mnm5i477a&st=1mykv873&raw=1",
+             "sonrisa":"https://www.dropbox.com/scl/fi/x3p65mijm1m4j9vi4luq6/sonrisas.png?rlkey=vscskvkmwbzmcvbn87tws5rpe&st=dmgmcb0w&raw=1",
+             "rumba":"https://www.dropbox.com/scl/fi/pgwdbbqs2z23wdcmcoc0p/rumba.png?rlkey=g6pb5oyfgnf3f4jzma65auwut&st=da7vo3e3&raw=1",
+             "opera":"https://www.dropbox.com/scl/fi/22cl7njf8wu0eq9z8ecsx/opera.png?rlkey=th04r2wgm2l4pc8b8q7wz78uk&st=xjoyacoc&raw=1",
+             "pepa":"https://www.dropbox.com/scl/fi/ik96klbrthntpp3a6a2r1/pepa.png?rlkey=qyb1osuz54dxvwld9x7iro00e&st=2u566hxt&raw=1"
+           },
+           "chocolates":{
+             "block":"https://www.dropbox.com/scl/fi/6vuhd2odpkmpyro38fgtc/block.png?rlkey=0r7qws85ubhnbh3rhmgy6oca1&st=7qb0oryo&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/a3dbzbcknjh6yszrdqjxd/bonobon-barra.png?rlkey=zprkjq0mq7ybleavlyc3dm4eo&st=x14naajz&raw=1",
+             "cofler":"https://www.dropbox.com/scl/fi/pecpuql7v9wsxh5zl86dz/cofler.png?rlkey=lozttiqiit46vnjnc7jknc109&st=ytb195iq&raw=1",
+             "hamlet":"https://www.dropbox.com/scl/fi/kegy8yc8ijmcoe8hzxvd8/hamlet.png?rlkey=a74isgnex1s76dxykcjjrb9x1&st=r12157b2&raw=1",
+             "mecano":"https://www.dropbox.com/scl/fi/111rs56fmcg5nqc1051q9/mecano.png?rlkey=aoksg6zl5hhzvidyfg7ywk6f1&st=l6t5h5er&raw=1",
+             "nugaton":"https://www.dropbox.com/scl/fi/fe7afjyasj0iu1qdst8b5/nugaton.png?rlkey=irjb6tmvwniovxcej3i7n5h9k&st=rbvbvw1r&raw=1",
+             "rocklets":"https://www.dropbox.com/scl/fi/gluoel8ccmvc6flerkidc/rocklets.png?rlkey=d3nkn3itlh6v5rab1c93n331f&st=3wwxx8rd&raw=1"
+           },
+           "salado":{
+             "kesitas":"https://www.dropbox.com/scl/fi/uxkqvtv5tbeati9jdhc8d/kesitas.png?rlkey=cyckyxaj9t1f4cvlw17u311jp&st=o5cjcb4f&raw=1",
+             "rex":"https://www.dropbox.com/scl/fi/vng4295iy1srqqf00jy2y/rex.png?rlkey=7ieoknuw0ixkgjdin80nyy2xy&st=d8gt5d0e&raw=1",
+             "saladix":"https://www.dropbox.com/scl/fi/q5axeqwvpoiv2dcy5bz38/saladix.png?rlkey=knkb88q20xwfzwlcizgzvutmf&st=u6599b7q&raw=1",
+             "talitas":"https://www.dropbox.com/scl/fi/h8r7qb5u48ybazd769w6v/talitas.png?rlkey=umc5ve3jgi748odveiauwyruy&st=g39hpeyp&raw=1",
+             "takis":"https://www.dropbox.com/scl/fi/j2kjk2ejzdaiqsrw9rlpp/takis.png?rlkey=s2xtcm56twtj6t0zauvec1h32&st=kknh8bl9&raw=1",
+             "traviata":"https://www.dropbox.com/scl/fi/rh0t9k3hdirli1e0ckbxt/traviata.png?rlkey=ntrieojvkr0nehexmbzow3fzz&st=gzcnq540&raw=1"
+           },
+           "varios":{
+             "beldent":"https://www.dropbox.com/scl/fi/96cq59r8g3wflcrv2lt3j/beldent.png?rlkey=yhapa39nu5g6uds3h8zgq5j56&st=hrsvgi06&raw=1",
+             "menthoplus":"https://www.dropbox.com/scl/fi/60k6c20cekdjpkzt0tt55/menthoplus.png?rlkey=eh6vz0bgm5ib35jijdn57klfx&st=18oe23n4&raw=1",
+             "mogul":"https://www.dropbox.com/scl/fi/3in57oe5w8gxo7hh2yj6v/mogul.png?rlkey=emc1z9fwsy67id63e73ftjfr9&st=uixvmrvp&raw=1",
+             "mantecol":"https://www.dropbox.com/scl/fi/ymm4nt80azw3qnpfl84z1/mantecol.png?rlkey=ux7umk8f3ytn24c7p1v0sjtd3&st=sy9ptwq5&raw=1",
+             "sugus":"https://www.dropbox.com/scl/fi/99brvs04az96aqpjed4dm/sugus.png?rlkey=wokcp2gdayjvyb1j2y959wnbn&st=taieoya3&raw=1",
+             "turron":"https://www.dropbox.com/scl/fi/cojrlttpwszap9bk4z6ui/turron.png?rlkey=aihl38n3mcumnv3bl2urz62a5&st=xo0ca4yh&raw=1"
+           },
+           "saludables":{
+             "cerealflow":"https://www.dropbox.com/scl/fi/z9n62vcgb675948w5f4yh/cerealflow.png?rlkey=dwpcvj9n8wxdmz5sl8hkv0mdi&st=j12u6gb6&raw=1",
+             "cerealmix":"https://www.dropbox.com/scl/fi/jy73us4dca4w97mc4qi4w/cerealmix.png?rlkey=8y10vd1ny1e0s6fbp9faws964&st=p7bl615b&raw=1",
+             "chocoarroz":"https://www.dropbox.com/scl/fi/w26n6deavudmlyh6wfe8d/chocoarroz.png?rlkey=dswt3vrp2ypzgobuqfw763tl5&st=w5xwfqsr&raw=1",
+             "chocobar":"https://www.dropbox.com/scl/fi/vxocfvm9tvoqtjfbin21p/chocobar.png?rlkey=e9y881u0708x10d4x5sp41hzy&st=4l3jnc1b&raw=1",
+             "coronitas":"https://www.dropbox.com/scl/fi/qq5xphf3h5s7sg4vb7vc6/coronitaverde.png?rlkey=fqq9o4wm432607lq0jbffza1b&st=v7ewwmii&raw=1",
+             "futigram":"https://www.dropbox.com/scl/fi/kk989n4jxx4qtf6t09ly6/futigrram.png?rlkey=kvm3tcffni9fks1lr6tsjn17l&st=mntsnffy&raw=1",
+             "hogareña":"https://www.dropbox.com/scl/fi/h98waizx10xxe6p11aaf6/hogare-a.png?rlkey=jt9n01mr2i2kozjsjdgv2s87g&st=n5wt1lmr&raw=1",
+             "integra":"https://www.dropbox.com/scl/fi/ohsupbujtbvy0obpiodkf/integra.png?rlkey=jfx3q70b8m3panso4focllyv1&st=d8ynbj1c&raw=1",
+             "integra2":"https://www.dropbox.com/scl/fi/z0km67amxsxo6hhguw36g/integra2.png?rlkey=rrbrmn4t4osk0gh7mxuj6vx48&st=365b1gaj&raw=1"
+           }
+         },
+         "cantidad_selecciones": "10",
          "servicio": {
             "srv1": "reposicion de maquina",
             "srv2": "servicio tecnico"
@@ -466,14 +877,93 @@
       "maqs8": {
          "marca": "Necta",
          "modelo": "Melodia",
-         "dimension": "0x0x0 cm",
-         "peso": "0kg",
+         "dimension": "72x170x82 cm",
+         "peso": "200kg",
          "img": {
-            "img1": "https://www.dropbox.com/scl/fi/uucubo7u185fb1qxckrav/frente_melodia.png?rlkey=bs66bbg8hu0g22riqigk33z7b&st=rts6suwu&raw=1",
-            "img2": "https://www.dropbox.com/scl/fi/uucubo7u185fb1qxckrav/frente_melodia.png?rlkey=bs66bbg8hu0g22riqigk33z7b&st=rts6suwu&raw=1",
-            "img3": "https://www.dropbox.com/scl/fi/uucubo7u185fb1qxckrav/frente_melodia.png?rlkey=bs66bbg8hu0g22riqigk33z7b&st=rts6suwu&raw=1"
+            "img1": "https://www.dropbox.com/scl/fi/uucubo7u185fb1qxckrav/frente_melodia.png?rlkey=bs66bbg8hu0g22riqigk33z7b&st=rts6suwu&raw=1"
          },
-         "cantidad_snacks": "10",
+         "productos":{
+           "bebidas":{
+             "Coca Botella":"https://www.dropbox.com/scl/fi/opwcus0srdpnxf0eq5bg6/cocabotella.png?rlkey=iiv2y1ndqg8vcvvna5feg2jek&st=u3sip02x&raw=1",
+             "Sprite Botella":"https://www.dropbox.com/scl/fi/qip0ea66zc5e1gzq0l6cp/sprite.png?rlkey=hcifkvung5i6h77e2ci5sw2me&st=5p30uq5p&raw=1",
+             "Fanta Botella":"https://www.dropbox.com/scl/fi/qkhhavpcuqijw8p4smgde/fant.png?rlkey=45x7shaigimmp8k8n3tbxfpo1&st=ic795rlo&raw=1",
+             "Coca Lata":"https://www.dropbox.com/scl/fi/f0mag1dfsqqoo8iz8moyj/cocalata.png?rlkey=3vv07vmiski7ridffcbku1by4&st=qm6tiy2c&raw=1",
+             "Sprite Lata":"https://www.dropbox.com/scl/fi/huhm016hm1jv6kowiu286/spritelata.png?rlkey=zfs1y61x7w89i9ap3qfb8qten&st=40pr5z45&raw=1",
+             "Fanta Lata":"https://www.dropbox.com/scl/fi/dtldvdphbvbu23vhhktcn/fantalata.png?rlkey=d7ll0o3o976trc5e20almt4v4&st=b66rv5k3&raw=1",
+             "Agua Smart":"https://www.dropbox.com/scl/fi/axuuvgu90azfbmy8cmdeu/smart.png?rlkey=umywp5jeuq1h8mxfsapyp19u5&st=88cxw8er&raw=1",
+             "Agua Benedicto":"https://www.dropbox.com/scl/fi/pbhh92se5lr1fl7k5vkbs/benedicto.png?rlkey=0gzfucr7lqlmgq4dwcf3al4ia&st=kv6q39qw&raw=1",
+             "Agua Ko":"https://www.dropbox.com/scl/fi/wa1me0ml88qfufayy25l6/agua-ko.png?rlkey=7wylg85hpgkvi94ur1om9ug0i&st=qixoocec&raw=1",
+             "Aquarius":"https://www.dropbox.com/scl/fi/4vplu2641942gzenicfpr/aquarius.png?rlkey=owzdhq7drqer3ys9a3o25xzv1&st=1alru3d4&raw=1",
+             "Baggio":"https://www.dropbox.com/scl/fi/sd9tjdguibsg9iqd1vh2l/baggio.png?rlkey=w0yipmcrtrn94vm6z8sf5lvoo&st=4plijjv6&raw=1",
+             "Powerade":"https://www.dropbox.com/scl/fi/h30d8k8qyvhuw8ntuj2pi/powerade.png?rlkey=1ah6fv14vf534e7ttsfo87rv8&st=xtu1b59e&raw=1",
+             "Monster":"https://www.dropbox.com/scl/fi/nfx8yk3db4jpvze19v5vk/monster.png?rlkey=56tjrgxtzveyxv2yndtexoqyr&st=aba2suwf&raw=1",
+             "Sweep Azul":"https://www.dropbox.com/scl/fi/i08012rmtcn1zeyu1gbvc/sweepazul.png?rlkey=b2ku5uy92yjfvwhy9yalwizow&st=1c9tw22g&raw=1",
+             "Sweep Amarillo":"https://www.dropbox.com/scl/fi/tmiw07xnagqe6h8fgtk3j/sweeamarillo.png?rlkey=mb9oa8lconttb23orj49e8rne&st=nwidk1km&raw=1"
+           },
+           "alfajores":{
+             "block":"https://www.dropbox.com/scl/fi/bykd1vlh5zv5c4gnwkm07/block.png?rlkey=kbsyxbcctafb0m4gteq2lg4vr&st=1qa8b3bn&raw=1",
+             "bn":"https://www.dropbox.com/scl/fi/7cd4pe1zlqbxdy682pfdr/bn.png?rlkey=ueyobk3vbkmjve6uzvhpchisg&st=isspkxbh&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/otnmhownit7wfxt7dosux/bonobon.png?rlkey=0u7q0txi8jcggda4cv4fo6135&st=4yvflh3o&raw=1",
+             "chocotorta":"https://www.dropbox.com/scl/fi/xnxq1ucsnuv6yg8bjcxvs/chocotorta.png?rlkey=zf4y1y4nxpeal66yy1l7e58aa&st=qr5dps08&raw=1",
+             "fantoche":"https://www.dropbox.com/scl/fi/7lewm0msdwnuyrobf15nz/fantoche.png?rlkey=xniap4kkqw82wani6pz8s62xp&st=0qi9x7ah&raw=1",
+             "gula":"https://www.dropbox.com/scl/fi/ufdu7d7e934z8e4tkcqdv/gula.png?rlkey=l1s0hioju4a50zctl7tuudong&st=rd9p26lo&raw=1",
+             "jorgelin":"https://www.dropbox.com/scl/fi/glvz40jo2hljaz3rqxg1r/jorgelin.png?rlkey=joclxzsqf5f2k3rxs8y3glhlj&st=j5toodfx&raw=1",
+             "jorgito":"https://www.dropbox.com/scl/fi/aq9f0eq5u4i6rmhu30m3x/jorgito.png?rlkey=tbhlsb9sgxhk5wnsp277d8ur4&st=bsh47mk7&raw=1",
+             "aguila":"https://www.dropbox.com/scl/fi/gu21ncot99bq7h4wtxfu4/aguila.png?rlkey=dzleydshslud20qfziv8g7b2j&st=iah5g1qo&raw=1",
+             "rasta":"https://www.dropbox.com/scl/fi/f2124qpgu2s0z64yckeam/rasta.png?rlkey=uprv3b439kylcswlb7g5pdkk4&st=hmknqb1z&raw=1"
+           },
+           "galletas":{
+             "9deoro":"https://www.dropbox.com/scl/fi/ivwdelcmatu5c7v6wqhkk/9deorolight.png?rlkey=qn1i5gfphev88i5kkvjldlfcr&st=bebeg7ls&raw=1",
+             "9deoronegro":"https://www.dropbox.com/scl/fi/misfyp3d9uilvw5mb0kjo/9oronegra.png?rlkey=ftnobt35in5d7wjaoanzgjcpa&st=b02e0mfx&raw=1",
+             "celosas":"https://www.dropbox.com/scl/fi/v5v4co9aq0m8gauyrztst/celosas_.png?rlkey=kevlvpkm745icw802rlrg7jhr&st=gzclyb3t&raw=1",
+             "coronita":"https://www.dropbox.com/scl/fi/nfv1s157lfd49ckwp3t6m/coronita_.png?rlkey=zvr5suzk0ti26rb40l3875zxu&st=snwydst6&raw=1",
+             "criollita":"https://www.dropbox.com/scl/fi/idpljyzmimxjum6v59dgp/criollitas.png?rlkey=dyd9cy5gp8ewpitrskavnknbi&st=hi9r0krq&raw=1",
+             "donsatur":"https://www.dropbox.com/scl/fi/kq20g0nv37zij45o2o0s7/donsatur.png?rlkey=trf2kzxdphdo8txpwf2od5yq7&st=ptb7rz7i&raw=1",
+             "macuca":"https://www.dropbox.com/scl/fi/bm146ccwn7evf0p5jfbgp/macuca.png?rlkey=2uzoei8bithvcn5t7nyeq51kw&st=mqg2659v&raw=1",
+             "merengada":"https://www.dropbox.com/scl/fi/g56h7wvdppr7o6lvdbyd4/merengada.png?rlkey=52n4me59lifz7ym8mnm5i477a&st=1mykv873&raw=1",
+             "sonrisa":"https://www.dropbox.com/scl/fi/x3p65mijm1m4j9vi4luq6/sonrisas.png?rlkey=vscskvkmwbzmcvbn87tws5rpe&st=dmgmcb0w&raw=1",
+             "rumba":"https://www.dropbox.com/scl/fi/pgwdbbqs2z23wdcmcoc0p/rumba.png?rlkey=g6pb5oyfgnf3f4jzma65auwut&st=da7vo3e3&raw=1",
+             "opera":"https://www.dropbox.com/scl/fi/22cl7njf8wu0eq9z8ecsx/opera.png?rlkey=th04r2wgm2l4pc8b8q7wz78uk&st=xjoyacoc&raw=1",
+             "pepa":"https://www.dropbox.com/scl/fi/ik96klbrthntpp3a6a2r1/pepa.png?rlkey=qyb1osuz54dxvwld9x7iro00e&st=2u566hxt&raw=1"
+           },
+           "chocolates":{
+             "block":"https://www.dropbox.com/scl/fi/6vuhd2odpkmpyro38fgtc/block.png?rlkey=0r7qws85ubhnbh3rhmgy6oca1&st=7qb0oryo&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/a3dbzbcknjh6yszrdqjxd/bonobon-barra.png?rlkey=zprkjq0mq7ybleavlyc3dm4eo&st=x14naajz&raw=1",
+             "cofler":"https://www.dropbox.com/scl/fi/pecpuql7v9wsxh5zl86dz/cofler.png?rlkey=lozttiqiit46vnjnc7jknc109&st=ytb195iq&raw=1",
+             "hamlet":"https://www.dropbox.com/scl/fi/kegy8yc8ijmcoe8hzxvd8/hamlet.png?rlkey=a74isgnex1s76dxykcjjrb9x1&st=r12157b2&raw=1",
+             "mecano":"https://www.dropbox.com/scl/fi/111rs56fmcg5nqc1051q9/mecano.png?rlkey=aoksg6zl5hhzvidyfg7ywk6f1&st=l6t5h5er&raw=1",
+             "nugaton":"https://www.dropbox.com/scl/fi/fe7afjyasj0iu1qdst8b5/nugaton.png?rlkey=irjb6tmvwniovxcej3i7n5h9k&st=rbvbvw1r&raw=1",
+             "rocklets":"https://www.dropbox.com/scl/fi/gluoel8ccmvc6flerkidc/rocklets.png?rlkey=d3nkn3itlh6v5rab1c93n331f&st=3wwxx8rd&raw=1"
+           },
+           "salado":{
+             "kesitas":"https://www.dropbox.com/scl/fi/uxkqvtv5tbeati9jdhc8d/kesitas.png?rlkey=cyckyxaj9t1f4cvlw17u311jp&st=o5cjcb4f&raw=1",
+             "rex":"https://www.dropbox.com/scl/fi/vng4295iy1srqqf00jy2y/rex.png?rlkey=7ieoknuw0ixkgjdin80nyy2xy&st=d8gt5d0e&raw=1",
+             "saladix":"https://www.dropbox.com/scl/fi/q5axeqwvpoiv2dcy5bz38/saladix.png?rlkey=knkb88q20xwfzwlcizgzvutmf&st=u6599b7q&raw=1",
+             "talitas":"https://www.dropbox.com/scl/fi/h8r7qb5u48ybazd769w6v/talitas.png?rlkey=umc5ve3jgi748odveiauwyruy&st=g39hpeyp&raw=1",
+             "takis":"https://www.dropbox.com/scl/fi/j2kjk2ejzdaiqsrw9rlpp/takis.png?rlkey=s2xtcm56twtj6t0zauvec1h32&st=kknh8bl9&raw=1",
+             "traviata":"https://www.dropbox.com/scl/fi/rh0t9k3hdirli1e0ckbxt/traviata.png?rlkey=ntrieojvkr0nehexmbzow3fzz&st=gzcnq540&raw=1"
+           },
+           "varios":{
+             "beldent":"https://www.dropbox.com/scl/fi/96cq59r8g3wflcrv2lt3j/beldent.png?rlkey=yhapa39nu5g6uds3h8zgq5j56&st=hrsvgi06&raw=1",
+             "menthoplus":"https://www.dropbox.com/scl/fi/60k6c20cekdjpkzt0tt55/menthoplus.png?rlkey=eh6vz0bgm5ib35jijdn57klfx&st=18oe23n4&raw=1",
+             "mogul":"https://www.dropbox.com/scl/fi/3in57oe5w8gxo7hh2yj6v/mogul.png?rlkey=emc1z9fwsy67id63e73ftjfr9&st=uixvmrvp&raw=1",
+             "mantecol":"https://www.dropbox.com/scl/fi/ymm4nt80azw3qnpfl84z1/mantecol.png?rlkey=ux7umk8f3ytn24c7p1v0sjtd3&st=sy9ptwq5&raw=1",
+             "sugus":"https://www.dropbox.com/scl/fi/99brvs04az96aqpjed4dm/sugus.png?rlkey=wokcp2gdayjvyb1j2y959wnbn&st=taieoya3&raw=1",
+             "turron":"https://www.dropbox.com/scl/fi/cojrlttpwszap9bk4z6ui/turron.png?rlkey=aihl38n3mcumnv3bl2urz62a5&st=xo0ca4yh&raw=1"
+           },
+           "saludables":{
+             "cerealflow":"https://www.dropbox.com/scl/fi/z9n62vcgb675948w5f4yh/cerealflow.png?rlkey=dwpcvj9n8wxdmz5sl8hkv0mdi&st=j12u6gb6&raw=1",
+             "cerealmix":"https://www.dropbox.com/scl/fi/jy73us4dca4w97mc4qi4w/cerealmix.png?rlkey=8y10vd1ny1e0s6fbp9faws964&st=p7bl615b&raw=1",
+             "chocoarroz":"https://www.dropbox.com/scl/fi/w26n6deavudmlyh6wfe8d/chocoarroz.png?rlkey=dswt3vrp2ypzgobuqfw763tl5&st=w5xwfqsr&raw=1",
+             "chocobar":"https://www.dropbox.com/scl/fi/vxocfvm9tvoqtjfbin21p/chocobar.png?rlkey=e9y881u0708x10d4x5sp41hzy&st=4l3jnc1b&raw=1",
+             "coronitas":"https://www.dropbox.com/scl/fi/qq5xphf3h5s7sg4vb7vc6/coronitaverde.png?rlkey=fqq9o4wm432607lq0jbffza1b&st=v7ewwmii&raw=1",
+             "futigram":"https://www.dropbox.com/scl/fi/kk989n4jxx4qtf6t09ly6/futigrram.png?rlkey=kvm3tcffni9fks1lr6tsjn17l&st=mntsnffy&raw=1",
+             "hogareña":"https://www.dropbox.com/scl/fi/h98waizx10xxe6p11aaf6/hogare-a.png?rlkey=jt9n01mr2i2kozjsjdgv2s87g&st=n5wt1lmr&raw=1",
+             "integra":"https://www.dropbox.com/scl/fi/ohsupbujtbvy0obpiodkf/integra.png?rlkey=jfx3q70b8m3panso4focllyv1&st=d8ynbj1c&raw=1",
+             "integra2":"https://www.dropbox.com/scl/fi/z0km67amxsxo6hhguw36g/integra2.png?rlkey=rrbrmn4t4osk0gh7mxuj6vx48&st=365b1gaj&raw=1"
+           }
+         },
+         "cantidad_selecciones": "10",
          "servicio": {
             "srv1": "reposicion de maquina",
             "srv2": "servicio tecnico"
@@ -482,14 +972,93 @@
       "maqs9": {
          "marca": "Necta",
          "modelo": "Orchestra",
-         "dimension": "0x0x0 cm",
-         "peso": "0kg",
+         "dimension": "89x183x79 cm",
+         "peso": "280kg",
          "img": {
-            "img1": "https://www.dropbox.com/scl/fi/85fm1g9b5ti8hx9qchsmm/frente_orchestra.png?rlkey=df96bqnihqrkvef2w8ujeiays&st=rfmxemac&raw=1",
-            "img2": "https://www.dropbox.com/scl/fi/85fm1g9b5ti8hx9qchsmm/frente_orchestra.png?rlkey=df96bqnihqrkvef2w8ujeiays&st=rfmxemac&raw=1",
-            "img3": "https://www.dropbox.com/scl/fi/85fm1g9b5ti8hx9qchsmm/frente_orchestra.png?rlkey=df96bqnihqrkvef2w8ujeiays&st=rfmxemac&raw=1"
+            "img1": "https://www.dropbox.com/scl/fi/85fm1g9b5ti8hx9qchsmm/frente_orchestra.png?rlkey=df96bqnihqrkvef2w8ujeiays&st=rfmxemac&raw=1"
          },
-         "cantidad_snacks": "10",
+         "productos":{
+           "bebidas":{
+             "Coca Botella":"https://www.dropbox.com/scl/fi/opwcus0srdpnxf0eq5bg6/cocabotella.png?rlkey=iiv2y1ndqg8vcvvna5feg2jek&st=u3sip02x&raw=1",
+             "Sprite Botella":"https://www.dropbox.com/scl/fi/qip0ea66zc5e1gzq0l6cp/sprite.png?rlkey=hcifkvung5i6h77e2ci5sw2me&st=5p30uq5p&raw=1",
+             "Fanta Botella":"https://www.dropbox.com/scl/fi/qkhhavpcuqijw8p4smgde/fant.png?rlkey=45x7shaigimmp8k8n3tbxfpo1&st=ic795rlo&raw=1",
+             "Coca Lata":"https://www.dropbox.com/scl/fi/f0mag1dfsqqoo8iz8moyj/cocalata.png?rlkey=3vv07vmiski7ridffcbku1by4&st=qm6tiy2c&raw=1",
+             "Sprite Lata":"https://www.dropbox.com/scl/fi/huhm016hm1jv6kowiu286/spritelata.png?rlkey=zfs1y61x7w89i9ap3qfb8qten&st=40pr5z45&raw=1",
+             "Fanta Lata":"https://www.dropbox.com/scl/fi/dtldvdphbvbu23vhhktcn/fantalata.png?rlkey=d7ll0o3o976trc5e20almt4v4&st=b66rv5k3&raw=1",
+             "Agua Smart":"https://www.dropbox.com/scl/fi/axuuvgu90azfbmy8cmdeu/smart.png?rlkey=umywp5jeuq1h8mxfsapyp19u5&st=88cxw8er&raw=1",
+             "Agua Benedicto":"https://www.dropbox.com/scl/fi/pbhh92se5lr1fl7k5vkbs/benedicto.png?rlkey=0gzfucr7lqlmgq4dwcf3al4ia&st=kv6q39qw&raw=1",
+             "Agua Ko":"https://www.dropbox.com/scl/fi/wa1me0ml88qfufayy25l6/agua-ko.png?rlkey=7wylg85hpgkvi94ur1om9ug0i&st=qixoocec&raw=1",
+             "Aquarius":"https://www.dropbox.com/scl/fi/4vplu2641942gzenicfpr/aquarius.png?rlkey=owzdhq7drqer3ys9a3o25xzv1&st=1alru3d4&raw=1",
+             "Baggio":"https://www.dropbox.com/scl/fi/sd9tjdguibsg9iqd1vh2l/baggio.png?rlkey=w0yipmcrtrn94vm6z8sf5lvoo&st=4plijjv6&raw=1",
+             "Powerade":"https://www.dropbox.com/scl/fi/h30d8k8qyvhuw8ntuj2pi/powerade.png?rlkey=1ah6fv14vf534e7ttsfo87rv8&st=xtu1b59e&raw=1",
+             "Monster":"https://www.dropbox.com/scl/fi/nfx8yk3db4jpvze19v5vk/monster.png?rlkey=56tjrgxtzveyxv2yndtexoqyr&st=aba2suwf&raw=1",
+             "Sweep Azul":"https://www.dropbox.com/scl/fi/i08012rmtcn1zeyu1gbvc/sweepazul.png?rlkey=b2ku5uy92yjfvwhy9yalwizow&st=1c9tw22g&raw=1",
+             "Sweep Amarillo":"https://www.dropbox.com/scl/fi/tmiw07xnagqe6h8fgtk3j/sweeamarillo.png?rlkey=mb9oa8lconttb23orj49e8rne&st=nwidk1km&raw=1"
+           },
+           "alfajores":{
+             "block":"https://www.dropbox.com/scl/fi/bykd1vlh5zv5c4gnwkm07/block.png?rlkey=kbsyxbcctafb0m4gteq2lg4vr&st=1qa8b3bn&raw=1",
+             "bn":"https://www.dropbox.com/scl/fi/7cd4pe1zlqbxdy682pfdr/bn.png?rlkey=ueyobk3vbkmjve6uzvhpchisg&st=isspkxbh&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/otnmhownit7wfxt7dosux/bonobon.png?rlkey=0u7q0txi8jcggda4cv4fo6135&st=4yvflh3o&raw=1",
+             "chocotorta":"https://www.dropbox.com/scl/fi/xnxq1ucsnuv6yg8bjcxvs/chocotorta.png?rlkey=zf4y1y4nxpeal66yy1l7e58aa&st=qr5dps08&raw=1",
+             "fantoche":"https://www.dropbox.com/scl/fi/7lewm0msdwnuyrobf15nz/fantoche.png?rlkey=xniap4kkqw82wani6pz8s62xp&st=0qi9x7ah&raw=1",
+             "gula":"https://www.dropbox.com/scl/fi/ufdu7d7e934z8e4tkcqdv/gula.png?rlkey=l1s0hioju4a50zctl7tuudong&st=rd9p26lo&raw=1",
+             "jorgelin":"https://www.dropbox.com/scl/fi/glvz40jo2hljaz3rqxg1r/jorgelin.png?rlkey=joclxzsqf5f2k3rxs8y3glhlj&st=j5toodfx&raw=1",
+             "jorgito":"https://www.dropbox.com/scl/fi/aq9f0eq5u4i6rmhu30m3x/jorgito.png?rlkey=tbhlsb9sgxhk5wnsp277d8ur4&st=bsh47mk7&raw=1",
+             "aguila":"https://www.dropbox.com/scl/fi/gu21ncot99bq7h4wtxfu4/aguila.png?rlkey=dzleydshslud20qfziv8g7b2j&st=iah5g1qo&raw=1",
+             "rasta":"https://www.dropbox.com/scl/fi/f2124qpgu2s0z64yckeam/rasta.png?rlkey=uprv3b439kylcswlb7g5pdkk4&st=hmknqb1z&raw=1"
+           },
+           "galletas":{
+             "9deoro":"https://www.dropbox.com/scl/fi/ivwdelcmatu5c7v6wqhkk/9deorolight.png?rlkey=qn1i5gfphev88i5kkvjldlfcr&st=bebeg7ls&raw=1",
+             "9deoronegro":"https://www.dropbox.com/scl/fi/misfyp3d9uilvw5mb0kjo/9oronegra.png?rlkey=ftnobt35in5d7wjaoanzgjcpa&st=b02e0mfx&raw=1",
+             "celosas":"https://www.dropbox.com/scl/fi/v5v4co9aq0m8gauyrztst/celosas_.png?rlkey=kevlvpkm745icw802rlrg7jhr&st=gzclyb3t&raw=1",
+             "coronita":"https://www.dropbox.com/scl/fi/nfv1s157lfd49ckwp3t6m/coronita_.png?rlkey=zvr5suzk0ti26rb40l3875zxu&st=snwydst6&raw=1",
+             "criollita":"https://www.dropbox.com/scl/fi/idpljyzmimxjum6v59dgp/criollitas.png?rlkey=dyd9cy5gp8ewpitrskavnknbi&st=hi9r0krq&raw=1",
+             "donsatur":"https://www.dropbox.com/scl/fi/kq20g0nv37zij45o2o0s7/donsatur.png?rlkey=trf2kzxdphdo8txpwf2od5yq7&st=ptb7rz7i&raw=1",
+             "macuca":"https://www.dropbox.com/scl/fi/bm146ccwn7evf0p5jfbgp/macuca.png?rlkey=2uzoei8bithvcn5t7nyeq51kw&st=mqg2659v&raw=1",
+             "merengada":"https://www.dropbox.com/scl/fi/g56h7wvdppr7o6lvdbyd4/merengada.png?rlkey=52n4me59lifz7ym8mnm5i477a&st=1mykv873&raw=1",
+             "sonrisa":"https://www.dropbox.com/scl/fi/x3p65mijm1m4j9vi4luq6/sonrisas.png?rlkey=vscskvkmwbzmcvbn87tws5rpe&st=dmgmcb0w&raw=1",
+             "rumba":"https://www.dropbox.com/scl/fi/pgwdbbqs2z23wdcmcoc0p/rumba.png?rlkey=g6pb5oyfgnf3f4jzma65auwut&st=da7vo3e3&raw=1",
+             "opera":"https://www.dropbox.com/scl/fi/22cl7njf8wu0eq9z8ecsx/opera.png?rlkey=th04r2wgm2l4pc8b8q7wz78uk&st=xjoyacoc&raw=1",
+             "pepa":"https://www.dropbox.com/scl/fi/ik96klbrthntpp3a6a2r1/pepa.png?rlkey=qyb1osuz54dxvwld9x7iro00e&st=2u566hxt&raw=1"
+           },
+           "chocolates":{
+             "block":"https://www.dropbox.com/scl/fi/6vuhd2odpkmpyro38fgtc/block.png?rlkey=0r7qws85ubhnbh3rhmgy6oca1&st=7qb0oryo&raw=1",
+             "bonobon":"https://www.dropbox.com/scl/fi/a3dbzbcknjh6yszrdqjxd/bonobon-barra.png?rlkey=zprkjq0mq7ybleavlyc3dm4eo&st=x14naajz&raw=1",
+             "cofler":"https://www.dropbox.com/scl/fi/pecpuql7v9wsxh5zl86dz/cofler.png?rlkey=lozttiqiit46vnjnc7jknc109&st=ytb195iq&raw=1",
+             "hamlet":"https://www.dropbox.com/scl/fi/kegy8yc8ijmcoe8hzxvd8/hamlet.png?rlkey=a74isgnex1s76dxykcjjrb9x1&st=r12157b2&raw=1",
+             "mecano":"https://www.dropbox.com/scl/fi/111rs56fmcg5nqc1051q9/mecano.png?rlkey=aoksg6zl5hhzvidyfg7ywk6f1&st=l6t5h5er&raw=1",
+             "nugaton":"https://www.dropbox.com/scl/fi/fe7afjyasj0iu1qdst8b5/nugaton.png?rlkey=irjb6tmvwniovxcej3i7n5h9k&st=rbvbvw1r&raw=1",
+             "rocklets":"https://www.dropbox.com/scl/fi/gluoel8ccmvc6flerkidc/rocklets.png?rlkey=d3nkn3itlh6v5rab1c93n331f&st=3wwxx8rd&raw=1"
+           },
+           "salado":{
+             "kesitas":"https://www.dropbox.com/scl/fi/uxkqvtv5tbeati9jdhc8d/kesitas.png?rlkey=cyckyxaj9t1f4cvlw17u311jp&st=o5cjcb4f&raw=1",
+             "rex":"https://www.dropbox.com/scl/fi/vng4295iy1srqqf00jy2y/rex.png?rlkey=7ieoknuw0ixkgjdin80nyy2xy&st=d8gt5d0e&raw=1",
+             "saladix":"https://www.dropbox.com/scl/fi/q5axeqwvpoiv2dcy5bz38/saladix.png?rlkey=knkb88q20xwfzwlcizgzvutmf&st=u6599b7q&raw=1",
+             "talitas":"https://www.dropbox.com/scl/fi/h8r7qb5u48ybazd769w6v/talitas.png?rlkey=umc5ve3jgi748odveiauwyruy&st=g39hpeyp&raw=1",
+             "takis":"https://www.dropbox.com/scl/fi/j2kjk2ejzdaiqsrw9rlpp/takis.png?rlkey=s2xtcm56twtj6t0zauvec1h32&st=kknh8bl9&raw=1",
+             "traviata":"https://www.dropbox.com/scl/fi/rh0t9k3hdirli1e0ckbxt/traviata.png?rlkey=ntrieojvkr0nehexmbzow3fzz&st=gzcnq540&raw=1"
+           },
+           "varios":{
+             "beldent":"https://www.dropbox.com/scl/fi/96cq59r8g3wflcrv2lt3j/beldent.png?rlkey=yhapa39nu5g6uds3h8zgq5j56&st=hrsvgi06&raw=1",
+             "menthoplus":"https://www.dropbox.com/scl/fi/60k6c20cekdjpkzt0tt55/menthoplus.png?rlkey=eh6vz0bgm5ib35jijdn57klfx&st=18oe23n4&raw=1",
+             "mogul":"https://www.dropbox.com/scl/fi/3in57oe5w8gxo7hh2yj6v/mogul.png?rlkey=emc1z9fwsy67id63e73ftjfr9&st=uixvmrvp&raw=1",
+             "mantecol":"https://www.dropbox.com/scl/fi/ymm4nt80azw3qnpfl84z1/mantecol.png?rlkey=ux7umk8f3ytn24c7p1v0sjtd3&st=sy9ptwq5&raw=1",
+             "sugus":"https://www.dropbox.com/scl/fi/99brvs04az96aqpjed4dm/sugus.png?rlkey=wokcp2gdayjvyb1j2y959wnbn&st=taieoya3&raw=1",
+             "turron":"https://www.dropbox.com/scl/fi/cojrlttpwszap9bk4z6ui/turron.png?rlkey=aihl38n3mcumnv3bl2urz62a5&st=xo0ca4yh&raw=1"
+           },
+           "saludables":{
+             "cerealflow":"https://www.dropbox.com/scl/fi/z9n62vcgb675948w5f4yh/cerealflow.png?rlkey=dwpcvj9n8wxdmz5sl8hkv0mdi&st=j12u6gb6&raw=1",
+             "cerealmix":"https://www.dropbox.com/scl/fi/jy73us4dca4w97mc4qi4w/cerealmix.png?rlkey=8y10vd1ny1e0s6fbp9faws964&st=p7bl615b&raw=1",
+             "chocoarroz":"https://www.dropbox.com/scl/fi/w26n6deavudmlyh6wfe8d/chocoarroz.png?rlkey=dswt3vrp2ypzgobuqfw763tl5&st=w5xwfqsr&raw=1",
+             "chocobar":"https://www.dropbox.com/scl/fi/vxocfvm9tvoqtjfbin21p/chocobar.png?rlkey=e9y881u0708x10d4x5sp41hzy&st=4l3jnc1b&raw=1",
+             "coronitas":"https://www.dropbox.com/scl/fi/qq5xphf3h5s7sg4vb7vc6/coronitaverde.png?rlkey=fqq9o4wm432607lq0jbffza1b&st=v7ewwmii&raw=1",
+             "futigram":"https://www.dropbox.com/scl/fi/kk989n4jxx4qtf6t09ly6/futigrram.png?rlkey=kvm3tcffni9fks1lr6tsjn17l&st=mntsnffy&raw=1",
+             "hogareña":"https://www.dropbox.com/scl/fi/h98waizx10xxe6p11aaf6/hogare-a.png?rlkey=jt9n01mr2i2kozjsjdgv2s87g&st=n5wt1lmr&raw=1",
+             "integra":"https://www.dropbox.com/scl/fi/ohsupbujtbvy0obpiodkf/integra.png?rlkey=jfx3q70b8m3panso4focllyv1&st=d8ynbj1c&raw=1",
+             "integra2":"https://www.dropbox.com/scl/fi/z0km67amxsxo6hhguw36g/integra2.png?rlkey=rrbrmn4t4osk0gh7mxuj6vx48&st=365b1gaj&raw=1"
+           }
+         },
+         "cantidad_selecciones": "10",
          "servicio": {
             "srv1": "reposicion de maquina",
             "srv2": "servicio tecnico"
